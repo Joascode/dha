@@ -1,0 +1,18 @@
+{
+  "name": "callback-promise-observable",
+  "version": "1.0.0",
+  "description": "Step by step",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bart van der Wal",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^8.0.30",
+    "tsc": "^1.20150623.0"
+  },
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}

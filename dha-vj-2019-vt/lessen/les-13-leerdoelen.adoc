@@ -1,0 +1,5 @@
+- [ ] 1. Je kent een aantal Angular en Ionic form elementen en kunt ze toepassen in een custom app
+- [ ] 2. Je kent het verschil tussen template driven forms en reactive forms
+- [ ] 3. Je kunt validatie regels maken en validatie meldingen weergeven in je app en deze vormgeven
+- [ ] 4. Je kunt uitleggen hoe een parliamentary debate werkt, welke rollen er zijn, de spreekvolgorde, interruptieregels en tactieken
+- [ ] 5. Je kunt uitleggen hoe debat vaardigheden ook handig zijn voor een developer

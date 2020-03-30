@@ -1,0 +1,21 @@
+== Week 8 - Uitloop
+=== Les 15 - Q & A Eindopdracht
+=== <<les-14#, < >> <<README#week8, ^>> <<les-16#, > >>
+
+=== Slides
+Geen slides.
+
+=== Samenvatting
+Vandaag is het debat en hebben we ook korte demo's van de - huidige status - van de apps!
+Vermoedelijk ben je ook nog druk de laatste hand aan het leggen. Zorg dus dat je dit op een develop branch doet, en je een stabiele - master - branch hebt die je kunt demo-en!
+
+=== Debat - 45 minz
+Het debat is al behandeld. Na afloop van het debat kiezen we het winnende team, beste individuele debater en evt. publieksfavoriet.
+
+=== Teampresentaties 45 minz
+Hierna presenteert elk team even kort in een minuut zijn app - huidige status - op het grote scherm. Je noemt de naam van je app, en demonstreert even de leukste functionaliteit die hierin zit. Hierna is nog max een minuut voor de overige aanwezigen kunnen nog vragen naar andere zaken en evt verbeterpunten aandragen.
+
+NB: In de README. md van je app schrijf je ook een korte evaluatie over je app. Hierin reflecteer je waar deze nog verbeterd kan worden. Hierbij bekijk je op basis van je ervaringen in DiA en DHA ook of bepaalde functionaliteiten makkelijker of juist moeilijker in een native app waren geweest. Beschrijf hierbij praktisch voor één functionaliteit waarvoor dit iets interessants oplevert hoe je deze in native dan had moeten implementeren (bv. een sensor integratie, http integratie, lokale opslag of visualisatie). Hiervoor moet je dit wellicht nog even onderzoeken.
+
+=== Pré assessment
+Resterende deel van de les is Q&A van de eindapp en kun je verder aan de slag met je app. Of mail de docent vantevoren als je eind app al helemaal af is. Er is maximaal plek voor 2 assessmentss. Wie het eerst komt die het eerst maalt.

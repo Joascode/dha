@@ -1,0 +1,17 @@
+== Theorietoets MAD - DHA
+
+De theorietoets bestaat uit 40 multiple choice vragen met 4 antwoordopties, waarvan telkens een antwoord goed is.
+Je hebt één uur de tijd.
+
+De getoetste stof zijn alle onderwerpen die de afgelopen 3,5 week aan de orde zijn geweest in de HMA lessen:
+
+- *HTML en CSS*
+- Het mobiele landschap
+- Hybrid mobile apps
+- Ionic
+- Cordova
+- JavaScript
+- TypeScript
+- EcmaScript
+
+Neem vantevoren de sheets nog een keer door, en de stukken uit het huiswerk die weggezakt zijn, of je minder goed snapt. Verdiep je in stukken die minder bekend zijn. Als je de stof in de lessen begreep, de testjes in de les goed gingen, de CodeSchool opdrachten zelfstandig goed kon maken dan moet je normaal gesproken deze toets ook een voldoende halen.

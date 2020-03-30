@@ -1,0 +1,38 @@
+.card-info {
+  padding: 20px;
+  text-align: center;
+  position: absolute;
+  top: 65%;
+  width: 90%;
+}
+
+.card-info-qr {
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+  position: absolute;
+  top: 65%;
+  width: 90%;
+}
+
+ion-content {
+  --ion-background-color: rgba(0,0,0,0);
+}
+
+.container {
+  width: calc(100vw - 30px);
+  height: calc(100vh - 155px);
+  display: block;
+}
+
+@media (orientation: landscape) {
+  .container {
+    background: transparent url('../../assets/scanner/scanner_horizontal.png') no-repeat center center / cover !important;
+  }
+}
+
+@media (orientation: portrait) {
+  .container {
+    background: transparent url('../../assets/scanner/scanner_vertical.png') no-repeat center center / cover !important;
+  }
+}

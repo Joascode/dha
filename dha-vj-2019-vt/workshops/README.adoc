@@ -1,0 +1,92 @@
+== Workshops
+In de oneven weken (1, 3 en 7) start de 2e les altijd met één of twee workshops van studenten. Deze 3 momenten noemen we _Workshops A_, _B_, en _C_. In week 5 is het <<debate#,debat>>.
+
+Hieronder een aantal suggesties voor onderwerpen. Studenten kunnen ook zelf een onderwerp aandragen bij de docent; inclusief titel. Doe dit tijdig; hetzij mondeling, hetzij via e-mail. Goedkeuring van onderwerp is aan de docent. Als je zeker weet dat je goedkeuring krijgt kun je natuurlijk alvast beginnen, Maar de docent kan het onderwerp aanpassen of zelfs geheel afkeuren. Maar er is best veel veel mogelijk, zolang het op voldoende niveau is voor deze verdiepende minor.
+
+=== Workshops: onderwerpen, groepen, groepsleden, indeling
+Klik <<workshops-indeling#, hier>>.
+
+=== Doel
+Het doel van de workshops is kennis delen. Informatie die je met anderen deelt onthoud je velen malen beter dan passief geconsumeerde informatie.
+
+Je kiest natuurlijk bij voorkeur een onderwerp dat je interessant lijkt, maar kijk ook naar dingen waar je ook iets mee kunt in je eindopdracht (app 3). Dan sla je twee vliegen in één klap.
+
+=== Interactief karakter
+Maar - let op - link:https://www.lhcornelis.nl/opvallend/een-workshop-is-geen-presentatie[een workshop is geen presentatie]! Naast het presenteren van een onderwerp moet de workshop ook een interactief karakter hebben. Hierbij demonstreer je iets waarmee je deelnemers ook aan de slag gaan, of waarbij je hun input vraagt. Typisch is dit een 'code-along'. Maar je kunt ook een quiz doen, of iets anders.
+
+=== Duur
+De workshop duurt ca. een kwartier, maximaal 20 minuten, maar hierin moeten ook vragen gesteld kunnen zijn, of discussie zijn. Reken op 5 minuten. Er is ook minstens 5 minuten inter-actief; een code-along of iets anders interactiefs. Verder moet iedereen uit de groep aan bod komen.
+
+=== Beter laat dan nooit, maar een goed begin is het halve werk
+Vanwege de korte voorbereidingstijd voor de 1e workshop hoeft de workshop van deze twee groepen maar 10 minuten te duren in plaats van een kwartier. We starten ook met een gezamenlijke workshop, waar je op kunt aansluiten. Je workshop wordt ook iets minder streng beoordeeld. NB Nog steeds is 5 minuten demo/code along wel verplicht.
+De laatste workshop gaat in de vorm van een parliamentery debate. Dit wordt erg leuk, maar reken hier juist op wat extra voorbereidingstijd om goed genoeg in de materie te zitten om je concurrerende team te verslaan ;).
+
+== Indeling
+- Minimaal 5 minuten theorie -> presenteren, slides
+- Minimaal 5 minuten praktijk -> code demo, met toelichting
+- Minimaal 5 minuten vragen -> hopelijk van overige studenten, anders de docent
+
+De workshop doe je met meerdere mensen, laat niet één persoon de hele code demo doen, maar laat beide een groepsproduct zijn en ook goed op elkaar aansluiten.
+
+== Beoordelingscriteria
+Een goede workshop behandelt zowel theorie en achtergrond als bijbehorende praktijk voorbeeld met code of anderszins demonstreerbare praktijkdeel, waarbij je mede studenten betrekt en iets leert. Hieronder een rubrik van 3 beoordelingscriteria en wat niveaubeschrijvingen. De cijfers zijn indicatie, maar de docent kan ook middelen, of uitschieten naar boven of beneden bij exceptionele respectievelijk betreurenswaardige workshops.
+
+Normaal middelen de 3 cijfers tot een eindcijfer. Elke cijfer moet 4 of hoger zijn voor een voldoende. Er zijn geen harde wegingsfactoren, de docent is vrij een eindcijfer uit de drie deelcijfers, maar geeft hier wel een toelichting op.
+
+* [ ] 1. Verdieping in de stof
+  ** *8* Tijdens workshop blijkt dat je je erg goed hebt verdiept in theorie, je kunt vragen goed beantwoorden, de praktijk koppelen aan de theorie en andersom
+  ** *6* Je hebt voldoende verdiept, maar kunt niet alle vragen goed beantwoorden en mist sommige concepten
+  ** *4* Je snapt het gepresenteerde onderwerp niet goed en/of geeft er geen goed beeld van
+  ** *2* Je hebt je niet verdiept in de stof
+* [ ] 2. Toegankelijk presentatie
+  ** *8* Je hebt complex materiaal toegankelijk gepresenteerd op niveau van doelgroep (4ejaars ICT studenten)
+  ** *6* Je slides en/of whiteboard notities zijn voldoende verzorgd en gestructureerd
+  ** *4* Je slides zijn rommelig, ongestructureerd, het zijn er maar paar (2, 3), of juist veel te veel (10+)
+  ** *2* Geen presentatie (direct code in)
+* [ ] 3. Aansluiting bij praktijk van het vak (DHA: hybrid apps, Ionic)
+  ** *8* Je onderwerp sluit aan, en praktijk onderstreep het nut van theorie voor aanwezigen
+  ** *6* De code demo is nuttig en relevant voor de meeste aanwezigen, toelichting is begrijpelijk
+  ** *4* Praktijk en theorie sluiten niet aan, er is opeens onbehandelde theorie nodig, toelichting onduidelijk of demo triviaal
+  ** *2* Onrelevant onderwerp voor vak of geen praktijkdeel
+
+Verder geldt:
+- De workshop sluit aan bij recent besproken onderwerp of technologie en diept deze uit of er wordt een concreet voorbeeld behandeld.
+- De docent beoordeelt het onderwerp. Uiterlijk de dag ervoor vragen/mailen voor toestemming.
+- Vantevoren je onderwerpen doorspreken met mede studenten, en alle studenten ook in CC zetten van zo'n mail.
+- De workshop doe je in een groep van 3 of 4 studenten waar elke student een stuk presenteert binnen een samenhangend geheel.
+- Totaal zijn er dus 6-8 studenten per les. Iedere student moet dus 1 keer presenteren. Over alle lessen komen alle 24-32 studenten van een groep zo aan de bak.
+
+== Suggesties van onderwerpen
+Hieronder suggesties voor onderwerpen van workshops. De volgorde/weekindeling is indicatief, in overleg met docent kun je ook verschuiven.
+Een onderwerp kan natuurlijk maar een keer aan bod komen, dus als je een onderwerp graag doet, geef dit dan tijdig aan voor een andere groep hem doet.
+Als je als groep geen onderwerp kunt kiezen, of het onderling niet eens wordt en een dag vantevoren geen onderwerp hebt voorgesteld, dan krijg je een onderwerp toegewezen.
+
+=== Week 1 - Workshops A
+- Cordova vs Capacitor
+- Onsen vs Ionic
+- Service Worker & PWA
+- Cross platform apps
+- Ionic Creator
+
+=== Week 3 - Workshops B
+- Web components & StencilJS
+- Debugging - Unit tests
+- Build & Deploy
+- HTML5 & Touch
+- SASS
+- Angular styles
+
+=== Week 6 - Debate
+Klik hier link:debate.adoc[voor inhoudelijke info].
+Groepsindeling staat link:workshops-nj-2018.adoc[elders].
+
+=== Week 7 - Workshops C
+- AppStores, sandboxing and user permissions
+- Funky mobile sensors (GPS, gerometer, Bluetooth, etc.)
+- Push notifications
+- Async and await (ES7)
+- Angular Tree shaking
+- The Monad
+
+==== Welke onderwerpen niet?
+Er zijn nog heel veel onderwerpen uit de webwereld of mobiele wereld; maar onderwerpen die niks direct met combinatie 'hybrid mobile' te maken hebben of tool- of taaltechnisch in de course relevant worden afgekeurd. Randonderwerpen zoals bijvoorbeeld Electron, Xamarin of FireBase zijn heel interessant, maar niet relevant genoeg. Tenzij je natuurlijk zelf met goede argumenten kunt komen waarom dit wel zo is.

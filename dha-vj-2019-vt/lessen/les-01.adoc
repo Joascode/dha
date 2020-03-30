@@ -1,0 +1,28 @@
+== Week 1 - Intro
+=== Les 1 - Course Overview & Introduction to Hybrid
+=== <<les-00#, < >> <<README#week1, ^>> <<les-02#, > >>
+
+=== Slides
+- link:https://docs.google.com/presentation/d/17_cpf1YUe03VyqoZsuA8lavtTJmlmOxKnrGSfn4THyk[Slides Les 1 - Course Overview & Introduction to Hybrid]
+
+=== Leerdoelen
+<<<
+include::/lessen/les-01-leerdoelen.adoc[]
+
+=== Voorbereidend huiswerk
+- Schrijf voor jezelf op waarom je voor deze minor hebt gekozen:
+    - Wat was je voornaamste reden? Interesse? Carrieremogelijkheden? Eerdere ervaring?
+    - Was je al bewust dat er aandacht voor zowel native als hybride apps zou zijn?
+    - Weet je al wat het verschil is tussen native en hybrid en hoe zou je dit zelf omschrijven?
+- Zoek een framework voor Hybrid Mobile Apps dat je aanspreekt.
+
+NB: Het huiswerk voor de volgende les staat altijd ook bij díe les vermeld. Dit geldt voor alle lessen.
+
+Lees de instructie over <<leerdoelen-en-huiswerk#, leerdoelen en huiswerk>> eens door.
+
+=== Samenvatting
+In deze les krijg je een overzicht van de course waar je de komende 8 weken van dit blok mee bezig bent. Ook is er een eerste introductie over Hybride applicaties en hun verhouding tot Native apps zoals behandeld in het andere minor vak - DIA.
+In het course overzicht bespreken we de algemene leerdoelen van het vak, maar krijg je ook overzicht van de concrete momenten en deadlines voor opdrachten en workshops die je moeten maken en geven. Je weet hoe de lessen globaal ingedeeld zijn, waar de theoretische toets halverwege over gaat en de vorm van de eindopdracht. Het idee is dat je na de les weet hoe je dit vak kunt halen.
+
+Per les zijn er altijd 2 onderwerpen (minicolleges) of 1 onderwerp en studenten worksop. Voor het maximale leereffect wisselen we elke les theorie en praktijk af. Praktijk zijn meestal programmeer oefeningen of vragen. In de introductie, doen we een na de course overview een voorstelronde waarin elke student zichzelf voorstelt en vertelt waarom hij/zij voor deze minor heeft gekozen. En wat hij hieruit hoopt te halen. En maken een groepsindeling maken voor de workshops.
+Na het minicollege over Hybrid ga je het laatste half uur zelf op verkenningstocht als voorbereiding op de volgende les. Zoek hierbij een 3 frameworks die je aanspreken, eentje in alle 3 de apptypen die we vandaag besproken hebben. En 2 groepen mogen hier zelfs meteen een workshop over voorbereiden. Dit kun je thuis afmaken link:https://nodejs.org/en[NodeJS]]) installeren, omdat we dan concreet aan de slag gaan.

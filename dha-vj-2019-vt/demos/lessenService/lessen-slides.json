@@ -1,0 +1,68 @@
+[
+    { "les": 1, "slideCode": "1lMxVvq0b2vMVEIe4ijmB4bGcVb9lbKG67Gpj_3Rnj0w",
+        "naam": "Overview & Hybrid", "huiswerk": [
+            { "todo": "Oriënteer op hybrid mobile frameworks", "tijd": "1-2u" },            
+            { "todo": "Installeer NodeJS, VS Code en Ionic", "tijd": "1.5u"},
+            { "todo": "Opdracht: 3 hot frameworks", "tijd": "1-2u" },
+            { "todo": "Workshops A" }]
+        },
+    { "les": 2, "slideCode": "18JAQT9ZdxLz4Kg_IVC7mYKHnHIkbJ2LDTtDg1nId_As",
+        "naam": "Workshops A & Ionic Deepdive", "huiswerk": [
+            { "todo": "Kies 3 hot frameworks in elk 'apptype' besproken in les 1.", "tijd": "1-2u" },
+            { "todo": "Installeer NodeJS, GIT, Ionic en Cordova (zorg dat je met `npm install` NIET alles hoeft te `sudo`'en)", "url": "https://docs.npmjs.com/getting-started/fixing-npm-permissions#option-2-change-npms-default-directory-to-another-directory" },
+            { "todo" : "Workshops A: 2 groepen bereiden de presentatie voor" }
+        ]},
+    { "les": 3, "slideCode": "1PpZsR7a2gYFWjLsXYnFOaVsdss2pb6kQl_zp9lUdoHU",
+        "naam": "JS The good parts", "huiswerk": [
+            { "todo": "Installeer iOS of Android platf. (App1)", "tijd": "2u" },
+            { "todo": "JS - The good parts H1+H3", "tijd": "2u" },
+            { "todo": "CS: JS Roadtrip pt. 2 - Module 1 en 2", "tijd": "3u" }            
+        ]},
+    { "les": 4, "slideCode": "17SAzd6M0UvKXuUbNNafohZIKU7Ymk_3rBy1v8ten2oA",
+        "naam": "Gastcollege TypeScript", "huiswerk": [
+            {"todo": "PS: TypeScript Fundamentals", "tijd": "3-6u" },
+            {"todo": "App 1 - Calculator", "tijd": "4-6u" }
+        ]},
+    { "les": 5, "slideCode": "1nk_5Y5aX54C8H5vYS82GpWX6ofmYjE5OCNDwkq3GOPM",
+        "naam": "EcmaScript 2015+", "huiswerk": [
+            { "todo": "", "url": }
+        ] },
+    { "les": 6, "slideCode": "1eXDAolFu292yp_zyKk3hu63kdUbf7Y0SkdOWLFXjLfI",
+        "naam": "Workshops B & Ionic UI", "huiswerk": [
+            { "todo": }
+        ]},
+    { "les": 7, "slideCode": "1fHPyqT134uSdbMD9sl0Y3Y-f63JzN4VKa5IVBirlI7E",
+        "naam": "Ionic Storage & Oefenen toets", "huiswerk": [
+            { "todo": "Theorie week 1 t/m 4", "tijd": "4-6u" },
+            { "todo": "Pluralsight: Ionic 2.. Module 7 _IO_ Components: Beyond the basics", "url": "https://app.pluralsight.com/library/courses/ionic2-angular2-typescript-mobile-apps", "tijd": "2u" }
+        ]},
+    { "les": 8, "slideCode": "1uwqo1okkVTfpuPeph4aYHVxYmVJ6do8ZWGTp2ytB9bE",
+        "naam": "Theorie toets, Angular Intro" },
+    { "les": 9, "slideCode": "1yXtO9NhYToc92NZ7DG_9hMD20qrziWtgwx1ksvWd1aQ", 
+        "naam": "", "huiswerk": [
+        { "todo": "CS_: Accelerating through Angular Level 1-5]", "url": "campus.codeschool.com/courses/accelerating-through-angular", "tijd": "4-8u" },
+        { "todo": "PS_: Ionic 2.. Module 8 _IO_ Native", "url" : "https://app.pluralsight.com/library/courses/ionic2-angular2-typescript-mobile-apps/table-of-contents", "tijd": "2u" }
+        ]},
+    { "les": 10, "slideCode": "1AbUgDeWjHI94QhWIPiJXYvJ_9pqRy3Sg24wlnzex0f8",
+        "naam": "Workshops C & IO Native/Cordova", "huiswerk": [
+            { "todo": "Workshops C" }
+        ] },
+    { "les": 11, "slideCode": "1hr3EtPC6m_dB61CENYuWdK2WDYzxc3Y2xMIX0AiS90s",
+        "naam": "Functional JS", "huiswerk": [
+            { "todo": "Learning functional programming in JS", "url": "https://www.youtube.com/watch?v=e-5obm1G_FY", "tijd": "1u" },
+            { "todo": "Fun fun functions - 12-part video series on FP in JS", "url": "https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84", "tijd": "2-4u" }
+        ]},
+    { "les": 12, "slideCode": "1PTUDSVIw3-k-_LJcS_KbLKLbNxBYylS0VA54vbBq9Uw",
+        "naam": "RxJS", "huiswerk": [
+            { "todo": "App 2 - Sensor", "tijd": "8-12u" }
+        ]},
+    { "les": 13, "slideCode": "1YjWUNwhyajKq2Xa4oyVwBAWdq5lTf0RIcmKy3WQqUXM",
+        "naam": "NG Forms & Debate prep", "huiswerk": [
+            { "todo": "PS_: Ionic 2.. Module 7 Ionic Advanced Components", "url": "https://app.pluralsight.com/library/courses/ionic2-angular2-typescript-mobile-apps/table-of-contents", "tijd": "2u" }           
+        ]},
+    { "les": 14, "slideCode": "1KfNjverRkVCSYW92CJojmpdcxkhGzvHYNTYsA2vWNOw",
+        "naam": "Parliamentary Debate & NG Styleguide", "huiswerk": [
+            { "todo": "Angular Styleguide: filenames and LIFT principles", "url": "https://angular.io/guide/styleguide#lift" }
+        ]}
+]
+// "Urentotaal" : ["27 + 27 + 45 + 56 = 145", "9x3=27", "9x3=27", "30-45", "6 + 6 + 12 + 30 + 4 = 56"]

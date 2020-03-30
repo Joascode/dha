@@ -1,0 +1,53 @@
+== Week 6 - FP & RxJS
+=== Les 11 - Functional JS
+=== <<les-10#, < >> <<README#week6, ^>> <<les-12#, > >>
+
+=== Slides
+link:https://docs.google.com/presentation/d/141PBF-xMNoPIO_1KKy0pzlB9Ij8kJvl8oNK1Tqez078[Slides Les 11 - Functional Programming in JavaScript]
+
+=== Leerdoelen
+<<<
+include::/lessen/les-11-leerdoelen.adoc[]
+
+=== Voorbereidend huiswerk
+
+
+==== Huiswerk 1. Introductie
+Kijk deze link:https://www.youtube.com/watch?v=e-5obm1G_FY[introductie video] in functional JS van Anjana Vakil (half uur):
+
+==== Huiswerk 2. The Spotify guy
+Kijk daarna de video's uit de link:https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84[YouTube playlist van Mathias Petter Johansen] met code demo's van Functional JS:
+
+- 1. Higher-order functions 10:48
+- *2. Map* 9:07
+- *3. Reduce* 9:38
+- 4. Reduce advanced 13:22
+- 5. Closures 7:03
+- *6. Currying* 8:47
+- *7. Recursion* 15:43
+- *8. Promises* 16:55
+- *9. Functors* 9:18
+- 10. Functors (I was wrong) 11:38
+- 11. Streams 15:52
+- 12. Monads 11:25
+
+Kijk in ieder geval de 6 dikgedrukte (bij elkaar ca 1u10).
+Als je al bekend bent met het functionele paradigma, kun je beter Anjana's intro skippen en alle 12 video's van MPJ kijken.
+
+Enjoy! Code bij voorkeur mee met hem, of pauzeer in ieder geval het scherm op de aangegeven momenten, om de code echt even te snappen. Doe ook niet alle 12 video's achter elkaar. Elke video duurt 10-15 minuten (totaal ca 2u20).
+
+==== Huiswerk 3. Optional: If you've got balls ;)
+Als je nog zin hebt of geinspireerd bent kun je ook Douglas Crockford's lezing link:https://www.youtube.com/watch?v=dkZFtimgAcM['Monads and Gonads'] bekijken.
+
+== Samenvatting
+In deze les weer een uitstap naar een belangrijk stuk theorie. We gaan de functionele aspecten die de JavaScript taal vanaf het begin zo krachtig en uitbreidbaar maakten verder uitdiepen. Ook voor bedrijfsapplicaties zie je toenemende belang van 'functionele code'. Waarbij functioneel iets anders betekent dan dat het werkt. Uiteraard werkt het, maar de programmeerstijl is ook gebaseerd op functies in de meer wiskundige betekenis hiervan.
+
+Functional JS is een voorbereiding op de les van volgende week over RxJS. Daarnaast zorgt functionele paradigma ervoor dat je vaak minder code nodig hebt, en dat deze ook minder bugs oplevert. Omdat je meer op een declaratieve manier programmeert (het `wat` beschrijven) in plaats van een imperatieve (het `hoe`).
+
+=== Oefening 1
+- Implementeren `max(array: Array[int])`
+
+
+=== Oefening 2
+- Toren van Hanoi (zie `lessen/les-demos/dha-hanoi/)
+

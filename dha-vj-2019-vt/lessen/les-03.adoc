@@ -1,0 +1,57 @@
+== Week 2 - JS & TS
+=== Les 3 - Javascript: Fundamentals & Good, bad and ugly
+=== <<les-02#, < >> <<README#week2, ^>> <<les-04#, > >>
+
+=== Slides
+link:https://docs.google.com/presentation/d/17di3PzBCTsvc9cGij2tU2JfdVnb61dKV-vYOd_nJsrE/edit?usp=sharing[Slides]
+
+== Leerdoelen
+<<<
+include::/lessen/les-03-leerdoelen.adoc[]
+
+== Voorbereidend huiswerk
+Dit is het huiswerk:
+
+- Lezen link:https://github.com/HANICA-MAD/dha-vj-2019-vt/blob/master/reader/dha-reader-js-the-good-parts-v0.3.pdf[JavaScript the good parts] Hoofdstuk 1 & 3 (2 dus NIET) en de 1e 2 bladzijden van H4. link:https://github.com/transidai1705/javascript-ebooks/blob/master/%5BJavaScript%20The%20Good%20Parts%201st%20Edition%20by%20Douglas%20Crockford%20-%202008%5D.pdf[backup link als de eerste niet werkt]
+- JS primer/refresher link:http://javascript-roadtrip-part2.codeschool.com/levels/1/challenges/7[_CS_: JS Roadtrip pt. 2 - Module 1 en 2] _3u_
+- Ionic werkend hebben op je systeem
+- Ook 1 of 2 platforms geinstalleerd (Android, iOS Ionic platforms) (zie deel 2 video)
+- En zo nodig ook bijbehorende native IDE's (XCODE, Android Studio of Visual Studio passend bij je telefoon)
+
+== Samenvatting
+Na de Ionic deepdive en introductie in hybrid apps van vorige week gaan we deze les naar de fundamentals met JavaScript.
+
+We kijken eerst naar de historie van de taal, waar het begon en wat er door de jaren heen bijkwam, niet bijkwam en waarom.
+In het 2e deel duiken we in de code en kijken naar de fundamentals van de taal:
+- keywords, conditionals, loops
+- syntax en enkele voorkomende varianten en hun nut
+- de (data) types (truthy, object, Array#extras)
+- enkele van standaard functies
+- duck typing / polyfills
+
+Tot slot kijken we naar enkele stukken uit het klassieke boek 'JavaScript the Good parts'.
+Hierbij kijken we ook naar enkele lelijke stukken, zodat je deze kunt herkennen en (ver)mijden.
+
+=== Links
+- Kahoot 'JavaScript: Fundamentals and good parts', volgt...
+- link:https://www.pluralsight.com/resource-center/infographics/discover-the-science-behind-forgetting-and-conquer-it[Science behind forgetting]
+
+
+==== Oefeningen 1
+Doe de W3 school Javascript quiz:
+https://www.w3schools.com/js/js_quiz.asp
+
+Als oefening bekijk je `PluralSight video's opdrachten uit de link:http://javascript-roadtrip-part2.codeschool.com[JavaScript RoadTrip part 2]. In ieder geval deze 3:
+
+- 'These Dam Loops!' uit 'The Labyrinth of loops'
+- 'Some Dam Complex Conditionals!' uit 'Conditional Canyon'
+- 'Building Arrays' uit 'Array Archipelago'
+
+Klik even rond in de interface om te zien hoe je bij deze oefeningen komt (ipv alle filmpjes te kijken of bij oefening 1 te starten).
+Als je er niet uit komt of een refresher wilt ga dan een paar oefeningen terug of kijk de video's.
+Omdat je al programmeer ervaring hebt is JavaScript RoadTrip deel 1 waarschijnlijk vrij makkelijk. Aan de andere kant ben je ook wel snel doorheen, dus als je even echt de basics wil doen en JavaScript in de vingers wilt krijgen, kun je deze wel doen.
+
+=== Oefeningen 2
+Ga naar Wes Bos' link:https://javascript30.com/[javascript30.com] en maak een account. Doe dan dag 14 'Object and Arrays - Reference vs copy':
+
+image::http://fritzvd.goedgehost.nl/share/HBFvSHPpFN.png[align="left"]

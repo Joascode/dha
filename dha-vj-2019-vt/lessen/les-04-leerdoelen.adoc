@@ -1,0 +1,6 @@
+- [ ] 1. Je kunt 'transpilation' uitleggen en het verschil met compilation
+- [ ] 2. Je weet wat een .map bestand is, hoe je deze kunt genereren en hoe je deze gebruikt
+- [ ] 3. Je kunt Typescript installeren, diens compiler runnen - ook in watch mode
+- [ ] 4. Je kunt JS omzetten naar een TS bestand en types toevoegen
+- [ ] 5. Je snapt de termen 'optional typing', 'gradual typing' en 'type inference'
+- [ ] 6. Je kunt een TS configuratie maken en gebruiken

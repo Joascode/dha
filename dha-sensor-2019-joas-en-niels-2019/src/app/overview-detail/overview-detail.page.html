@@ -1,0 +1,75 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="/overview"></ion-back-button>
+    </ion-buttons>
+    <ion-title>Vispas</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+  <!--<ion-card *ngIf="createdCode">-->
+    <!--<ngx-qrcode [qrc-value]="createdCode"></ngx-qrcode>-->
+    <!--<ion-card-content>-->
+      <!--<p>Value: {{ createdCode }}</p>-->
+    <!--</ion-card-content>-->
+  <!--</ion-card>-->
+  <!---->
+  <!--<ion-list lines="full">-->
+    <!--<ion-item>-->
+      <!--<ion-input required type="text" placeholder="Naam" [(ngModel)]="fishingLicense.name"></ion-input>-->
+    <!--</ion-item>-->
+    <!--<ion-item>-->
+      <!--<ion-input required type="text" placeholder="Barcode" [(ngModel)]="fishingLicense.barcode"></ion-input>-->
+    <!--</ion-item>-->
+    <!--<ion-item>-->
+      <!--<ion-input required type="boolean" placeholder="Priority" [(ngModel)]="fishingLicense.validated"></ion-input>-->
+    <!--</ion-item>-->
+  <!--</ion-list>-->
+  <!--<ion-button expand="full" (click)="saveFishingLicense()">Save</ion-button>-->
+
+  <ion-card>
+    <ion-card-header>
+      <ion-card-subtitle>Vispas</ion-card-subtitle>
+      <ion-card-title>{{ fishingLicense.name }}</ion-card-title>
+    </ion-card-header>
+    <ion-item>
+      <ion-icon name="pin" slot="start"></ion-icon>
+      <ion-label>{{ fishingLicense.zone }}</ion-label>
+      <ion-button fill="outline" slot="end">Google maps</ion-button>
+    </ion-item>
+    <ion-item>
+      <ion-icon name="calendar" slot="start"></ion-icon>
+      <ion-label>{{ fishingLicense.createdAt | date: 'dd/MM/yyyy'}} </ion-label>
+    </ion-item>
+    <ion-item>
+      <ion-icon name="barcode" slot="start"></ion-icon>
+      <ion-label>{{ fishingLicense.barcode }}</ion-label>
+      <ion-label>{{ fishingLicense.validation_date }}</ion-label>
+      <ion-button fill="outline" slot="end" (click)="scan(fishingLicense)">Scannen</ion-button>
+    </ion-item>
+    <ion-item  *ngIf="fishingLicense.barcode" class="item-fill-space">
+      <ngx-qrcode class="center" [qrc-value]="fishingLicense.barcode"></ngx-qrcode>
+    </ion-item>
+  </ion-card>
+
+  <ion-card>
+    <ion-card-header>
+      <ion-card-subtitle>Persoonsgegevens</ion-card-subtitle>
+      <ion-card-title>{{ fishingLicense.personFirstName }} {{ fishingLicense.personLastName }}</ion-card-title>
+    </ion-card-header>
+    <ion-item>
+      <ion-icon name="transgender" slot="start"></ion-icon>
+      <ion-label>{{ fishingLicense.personGender }}</ion-label>
+    </ion-item>
+    <ion-item>
+      <ion-icon name="calendar" slot="start"></ion-icon>
+      <ion-label>{{ fishingLicense.personBirthDate | date: 'dd/MM/yyyy'}} </ion-label>
+    </ion-item>
+    <ion-item>
+      <ion-icon name="pin" slot="start"></ion-icon>
+      <ion-label>{{ fishingLicense.personStreet }} {{ fishingLicense.personStreetNumber }}, {{ fishingLicense.personResidence }} {{ fishingLicense.personPostalCode }}</ion-label>
+      <ion-button fill="outline" slot="end">Google maps</ion-button>
+    </ion-item>
+  </ion-card>
+</ion-content>

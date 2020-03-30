@@ -1,0 +1,33 @@
+== Week 2 - JS & TS
+=== Les 4 - Typescript
+=== <<les-03#, < >> <<README#week2, ^>> <<les-05#, > >>
+
+=== Slides
+link:https://docs.google.com/presentation/d/17SAzd6M0UvKXuUbNNafohZIKU7Ymk_3rBy1v8ten2oA/edit[Slides]
+
+=== Leerdoelen
+<<<
+include::/lessen/les-04-leerdoelen.adoc[]
+
+=== Voorbereidend huiswerk
+- Bekijk de Pluralsight course link:https://app.pluralsight.com/library/courses/typescript/table-of-contents[TypeScript Fundamentals] Module 2 'Typing, variables and functions' geheel en Module 3 'Classes and Interfaces'.
+
+=== Samenvatting
+*De deadline voor de Calculator opdracht (App 1) is deze les!*
+Na de JavaScript basics stappen we over op TypeScript. TypeScript voegt types toe, en alle voordelen die dit geeft van compile time checking en intellisens/code completion.
+Maar ook gaf TypeScript direct al classes en interfaces toe. Ook een Enum type is beschikbaar.
+We leren wat transpilatie is, welke alternatieven of concurrenten er waren en waarom Google voor Angular2 toch Microsoft's TypeScript koos.
+Volgende les kijken we naar de nieuwe features van EcmaScript6 en 7, die ook allemaal. Wellicht komen we zelfs toe aan asyn/await uit EcmaScript8 (2017).
+
+=== Links
+Kahoot: To Type Script or not to Type Script, volgt...
+
+=== Assessen
+*Laat je Calculator app in het laatste deel van de les assessen.
+*Als je deze opdracht (nog) niet af hebt, geef dit dan meteen aan aan bij de docent mondeling of per link:mailto:bart.vanderwal@han.nl[[e-mail]]. Je kunt nog tot uiterlijk week 3 inleveren; met puntenvermindering.*
+
+=== Oefening 1 - TypeScript 101
+Maak de `typescript-101` opdracht uit de `lessen/les-demos/` folder hier.
+
+=== Oefening 2 - Bouncing balls
+Wie oefening 1 afgerond heeft kan starten met de bouncing-balls opdracht en switch van node naar de browser. En gebruik maken dat typescript ook alle features uit nieuwe javascript/ecmascript versies ondersteunt/transpileert.

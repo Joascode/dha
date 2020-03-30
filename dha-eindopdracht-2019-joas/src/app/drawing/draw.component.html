@@ -1,0 +1,10 @@
+<ion-content>
+  <app-draw-task
+    *ngIf="!task; else startdrawing"
+    (taskAccept)="taskSelected($event)"
+  ></app-draw-task>
+</ion-content>
+
+<ng-template #startdrawing>
+  <app-draw-canvas [task]="task" (drawEnd)="stopDrawing()"></app-draw-canvas>
+</ng-template>

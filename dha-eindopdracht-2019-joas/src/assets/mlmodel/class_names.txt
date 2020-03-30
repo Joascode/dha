@@ -1,0 +1,15 @@
+cat
+sword
+smiley_face
+coffee_cup
+t-shirt
+bicycle
+star
+apple
+airplane
+clock
+tree
+car
+cloud
+umbrella
+eye

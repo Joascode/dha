@@ -1,0 +1,49 @@
+== Week 7 - Styleguide
+=== Les 14 - | Workshop C en NG Styleguide
+=== <<les-13#, < >> <<README#week8, ^>> <<les-15#, > >>
+
+=== Slides
+link:https://docs.google.com/presentation/d/1ehmUOPyOU-EUXJAwogKbjLlfhf2qAm5s7OP_zRE5s5k[Slides Les 14 - Angular Styleguide]
+
+=== Leerdoelen
+<<<
+include::/lessen/les-14-leerdoelen.adoc[]
+
+=== Voorbereidend huiswerk
+- [ ] 1. Neem de link:https://angular.io/guide/styleguide[Angular styleguide] door, het format (do, consider, avoid en why) en vind en bestudeer hierin in ieder geval de secties over bestandsnaam formats, 'folder by feature' en de LIFT principes.
+
+== Samenvatting
+Erst zijn er de 2 laatste workshops.
+
+We behandelen we de Angular Styleguide. Deze legt de codestyle vast, zoals standaarden over variabele namen, casing, maar ook het format van bestandsnamen en folderindeling. Let op: de Ionic CLI volgt NIET de styleguide op. De Angular CLI wel.
+
+Bespreek in je groep alle regels uit de toegewezen categorieën.
+Kies in je groepje samen 3 regels uit je categorieën die interessant zijn om na afloop met de hele groep te bespreken. 
+
+Bijvoorbeeld:
+
+1. Helemaal mee eens; dit zou iedereen zo moeten doornemen
+2. Mee oneens; deze regel is onlogisch/onduidelijk/zinloos; zou geschrapt moeten worden
+3. Onduidelijk, je snapt niet (goed) waar de regel over gaat.
+
+=== Oefening
+Samen doornemen Angular styleguide.
+Een of meer categorieen per groepje
+
+==== Duo 1
+01. Single responsability (2 reges)
+02. Naming (12 regels) 
+
+=== Duo 2
+03. Coding conventions (6 regels)
+08. Data Services (1 regel)
+09. Lifecycle Hooks (1 regel)
+
+==== Duo 3
+04. Application Structure * NgModules (14 regels)
+05. Components (17 regels)
+
+==== Duo 4
+06. Directives (2 regels)
+07. Services (4 regels)
+05. (ook) Components (17 regels)

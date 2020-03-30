@@ -1,0 +1,46 @@
+== Workshops MAD DHA Voorjaar 2018 - Onderwerpen, groepen en slides links
+Er zijn 5 teams (ca. 4 personen per team).
+
+=== Teams (nog niet ingedeeld):
+- Ali...
+- **Ionic vs. Onsen** - Rens, Martijn, Tim, Wesley
+- **Web Components** - Maarten, Arthur, Thomas, Suzanne
+
+==== Workshops A - Week 1 - Vr 8 feb
+
+===== 1. Workshop 1
+**Service Workers** - Kevin, Jesper, Harm
+
+===== 2. Workshop 2 
+
+==== Workshops B - Week 3 - Vr 22 feb
+
+===== 3. Workshop 3 
+**Unit tests in Ionic** - Wisse, Niels, Evertjan, Rick
+
+
+===== 4. Workshop 4 
+**TODO**
+
+==== Debat - Week 5
+
+===== 5. Workshop 5 
+**RxJS** - Carsten, Joas, Jos, Eric
+
+* Government: 
+* Opposition: 
+
+* Jury
+    ** 
+    ** 
+    ** 
+
+* Timekeeper
+    **
+
+Zie verder info over link:debate.adoc[debat].
+
+==== Workshops C-Week 7
+
+===== 5. Workshop 5
+**TODO**

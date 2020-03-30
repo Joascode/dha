@@ -1,0 +1,58 @@
+== Opdrachten MAD - DHA - Najaar 2019
+
+=== Programmeeropdrachten: 3 hybrids apps
+Tijdens de course maak je totaal hybride 3 apps met - de laatste versie van - link:https://ionicframework.com/[Ionic]:
+
+De 3 apps maak je in een aparte GitHub repo, via GitHub classroom. De specifieke requirements en het beoordelingsmodel staan in de app zelf. Hieronder de links ter info, maar Ga NIET zelf onderstaande repo's clonen of forken. Gebruik de GitHub classroom link die de docent t.z.t. mailt!
+
+1. link:https://github.com/HANICA-MAD/dha-calculator-2019[Calculator] - Een individuele startup app
+2. link:https://github.com/HANICA-MAD/dha-sensor-2019[Sensor App] - Een app die native 'sensors' uitleest, gegevens combineert en visualiseert
+3. link:https://github.com/HANICA-MAD/dha-eindopdracht-2019[Eindopdracht] - Je eigen app! Een 'vrije' opdracht, evt. voortbouwend op app-2
+
+Je demonstreert de app op een eigen mobiele telefoon of eventueel tablet (iOS of Android). Hij werkt ook in de browser (met evt. missende platform specifieke functionaliteit, maar geen crashes of foutmeldingen).
+
+Hieronder een aantal standaard - en minimale vereisten die voor alledrie de apps gelden en verdere relevante aandachtspunten en regels.
+
+==== Standaard vereisten
+- Het is een Ionic 3 of 4 app, gebouwd en te runnen via de Ionic CLI
+- Hij compileert en bouwt zonder problemen
+- Hij bevat README.md met beschrijving; zie details onder.
+
+==== Wat NIET te maken?
+- Maak geen hybrid app in een ander platform dan Ionic ('ivm nakijkbaarheid')
+- of in een niet standaard build proces (e.g. gebruik Ionic CLI, webpack)
+- Maak GEEN native app, of mobiele website.
+- Ook geen PWA; tenzij je dit natuurlijk als 2e platform target gebruikt (naast een echt mobiele target) (in welk geval je er bonuspunten mee verdient, mits er ook echt progressive features inzitten (en hij op een groot scherm ook goed bruikbaar en relevant is))
+- Geen hele grote backend
+
+Op het laatste punt; voor de eindopdracht wil je wellicht communiceren met een backend. Maar krijg geen extra punten voor eventuele server side functionaliteit. Zoals dataopslag, WEB API's, bluetooth versturende Raspberry Pi's of wat dan ook. In al deze tijd kun je niet gebruiken om je mobiele app te bouwen. Steek in de backend dus NIET te veel tijd, maar alleen wat nodig is om ook mooie dingen in je app te kunnen doen. Luister naar wat Paul Hagerty hierover zegt; al zijn opmerkingen zijn ook relevant.
+NB Zelfs MBAAS - Mobile Backend As A Service - is vaak nog teveel werk om op te zetten, tenzij je hier al ervaring mee hebt, of iets kunt hergebruiken wat je al kent.
+
+Dus maak enkel een simpele Firebase database/API of gebruik openbare API's zoals Wikipedia, IMDB, een kant-en-klare push notification service e.d.
+
+=== Hoe inleveren?
+Inleveren doe je zowel in iSAS (ivm formele HAN eisen) en in een folder in de private GitHub repo die je voor deze course krijgt (voor docent).
+Ook als je de app in de AppStore mocht hebben gezet (normaal gesproken alleen de 3e), dan moet dit je alsnog ook via deze 2 kanalen doen.
+
+==== Goeie `.gitignore`
+Zorg voor een goeie .git ignore en dat je de `node_modules` en andere irrelevante folders niet incheckt. En zet devDependencies ook in de devDependencies.
+
+Regelmatig werkt een app bij het nakijken trouwens niet, terwijl dit op je eigen machine wel zo is. Zorg trouwens ook dat je app draait als je hem zelf een keer op een andere plek uitcheckt,
+
+==== Documentatie -> `README.md`
+Bij de app hoef je geen verslag of dergelijke documentatie op te leveren.
+Zorg wel dat je app ook een README.md bevat met een beschrijving van de app. Bij de Calculator app hoef je hier alleen je gemaakte custom uitbreiding kort te beschrijven. De standaard functionaliteit moet werken als besproken en hoeft niet gedocumenteerd.
+
+Gebruik de `README.md` ook om verdere dingen te documenteren, zodat de docent de app ook kan nakijken en beoordelen zonder dat je erbij bent om toelichting te geven. Dit is ook ivm eventuele externe controle achteraf. Maar hiermee help je ook jezelf. Er is per app maar beperkte tijd om na te kijken, dus als je UI niet helemaal intuitief is zal de docent een onvoldoende geven als hij er niet uit komt. Terwijl je met stappenplan om in ieder geval basis functionaliteiten te demonstreren nog net een voldoende haalt. Of beschrijving hoe de advanced feature te triggeren bonus punten krijgt, die je anders wellicht mist.
+
+Denk bijvoorbeeld aan dingen als:
+- omschrijving hoe de app te bouwen, en te deployen (`npm install` en `ionic serve` of `ionic cordova run android`)
+- omschrijving van hoofdfunctionaliteiten (bv. gebruikte sensor en configuratie mogelijkheden in de app)
+- target platform (docent kan alleen Android, iOS telefoon)
+- evt. work arounds mocht je app nog kleine bugs bevatten
+- door jezelf gebruikte test cases
+- hoe eventuele unit tests, ene to end tests e.d. te runnen
+- waar de app in de appstore(s) te vinden is, of evt. URL van de PWA
+
+==== Verplicht!
+Alledrie de apps zijn verplicht. Dat wil zeggen dat als je een app niet inlevert, je de course niet haalt. Dus zorg dat je de app tijdig inlevert.

@@ -1,0 +1,10 @@
+- [ ] 1. Je kent de hoofdonderdelen van de 'Angular Architecture'
+- [ ] 2. Je kent de verschillende manieren van data binding en hun syntax.
+- [ ] 3. Je kunt de functie van modules beschrijven en het verschil tussen een root module, feature modules en Angular modules, en hoe je dependencies tussen modules op geeft
+- [ ] 4. Je kent enkele voorbeelden van standaard Angular modules die je kunt/moet includen (Forms, Component, Router, BrowserModule, BrowserDynamic)
+- [ ] 5. Je weet hoe een Angular gebootstrapped wordt, waar je deze code kunt vinden, en de relatie met modules
+- [ ] 6. Je weet hoe je een component maakt, hoe je deze koppelt aan een inline of externe template/view en een custom tag of html attribuut
+- [ ] 7. Je kunt iets zeggen over relevantie van het MVC pattern in Angular, what MV* betekent, welke Angular termen mappen naar M, V en C 
+- [ ] 8. Je weet hoe je code refactort vanuit een component naar een service. En hoe je editor dit ondersteunt.
+- [ ] 9. Je weet hoe in Angular dependency injection werkt, in de stappen om functionaliteit uit een component naar een service refactort
+- [ ] 10. Je kunt uitleggen waarom DI zo belangrijk wordt bij geneste dependencies

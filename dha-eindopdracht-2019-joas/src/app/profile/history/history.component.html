@@ -1,0 +1,121 @@
+<div>
+  <ion-header>
+    <ion-toolbar>
+      <ion-buttons slot="start">
+        <ion-back-button defaultHref="home" text="Home"></ion-back-button>
+      </ion-buttons>
+    </ion-toolbar>
+  </ion-header>
+  <ion-list>
+    <ion-list-header>
+      <ion-label>MY DRAWINGS</ion-label>
+    </ion-list-header>
+    <ng-container *ngIf="(drawings | async) as loaded; else loading">
+      <ng-container *ngIf="loaded.length > 0; else nodrawings">
+        <ion-item-sliding *ngFor="let drawing of loaded; let i = index">
+          <ion-item detail>
+            <ion-thumbnail class="img-thumbnail">
+              <img src="{{ drawing.thumbnail ? drawing.thumbnail : '//:0' }}" />
+            </ion-thumbnail>
+            <ion-item-group class="label-group">
+              <ion-label>Task: {{ drawing.drawTask }}</ion-label>
+              <ion-note class="success-note"
+                >Success?
+                <ion-icon
+                  [ngClass]="{
+                    success: drawing.correctGuess,
+                    fail: !drawing.correctGuess
+                  }"
+                  [name]="drawing.correctGuess ? 'checkmark' : 'close'"
+                ></ion-icon
+              ></ion-note>
+            </ion-item-group>
+          </ion-item>
+          <ion-item-options side="start">
+            <ion-item-option color="danger" slot="icon-only" (click)="delete(i)"
+              ><ion-icon class="trash-can" name="trash"></ion-icon
+            ></ion-item-option>
+          </ion-item-options>
+        </ion-item-sliding>
+      </ng-container>
+    </ng-container>
+  </ion-list>
+</div>
+
+<ng-template #loading>
+  <div class="loader loader--style" title="loading..">
+    <p>Loading drawings</p>
+    <svg
+      version="1.1"
+      id="Layer_1"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      x="0px"
+      y="0px"
+      width="24px"
+      height="30px"
+      viewBox="0 0 24 30"
+      style="enable-background:new 0 0 50 50;"
+      xml:space="preserve"
+    >
+      <rect x="0" y="13" width="4" height="5" fill="#333">
+        <animate
+          attributeName="height"
+          attributeType="XML"
+          values="5;21;5"
+          begin="0s"
+          dur="0.6s"
+          repeatCount="indefinite"
+        />
+        <animate
+          attributeName="y"
+          attributeType="XML"
+          values="13; 5; 13"
+          begin="0s"
+          dur="0.6s"
+          repeatCount="indefinite"
+        />
+      </rect>
+      <rect x="10" y="13" width="4" height="5" fill="#333">
+        <animate
+          attributeName="height"
+          attributeType="XML"
+          values="5;21;5"
+          begin="0.15s"
+          dur="0.6s"
+          repeatCount="indefinite"
+        />
+        <animate
+          attributeName="y"
+          attributeType="XML"
+          values="13; 5; 13"
+          begin="0.15s"
+          dur="0.6s"
+          repeatCount="indefinite"
+        />
+      </rect>
+      <rect x="20" y="13" width="4" height="5" fill="#333">
+        <animate
+          attributeName="height"
+          attributeType="XML"
+          values="5;21;5"
+          begin="0.3s"
+          dur="0.6s"
+          repeatCount="indefinite"
+        />
+        <animate
+          attributeName="y"
+          attributeType="XML"
+          values="13; 5; 13"
+          begin="0.3s"
+          dur="0.6s"
+          repeatCount="indefinite"
+        />
+      </rect>
+    </svg>
+  </div>
+</ng-template>
+
+<ng-template #nodrawings>
+  <p class="no-drawings-label">No drawings available.</p>
+</ng-template>

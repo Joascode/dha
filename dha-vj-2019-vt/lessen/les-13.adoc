@@ -1,0 +1,32 @@
+== Week 7 - NG Forms & Styleguide
+=== Les 13 - NG Forms
+=== <<les-12#, < >> <<README#week7, ^>> <<les-14#, > >>
+
+=== Slides
+link:https://docs.google.com/presentation/d/1Nn6VV0qWBHqp-mJmC-Sccs14ONV9OLuHmUJiw8mND3g/edit#slide=id.p4[Slides Les 13 - Angular Forms]
+
+== Kahoot (Play till you get an A)
+- Kahoot Angular Forms, volgt...
+
+=== Leerdoelen
+<<<
+include::/lessen/les-13-leerdoelen.adoc[]
+
+=== Voorbereidend Huiswerk
+Neem de stof door en doe de code along van de demos over Forms op de Angular site:
+
+- 1. link:https://angular.io/guide/user-input[User input]
+- 2. link:https://angular.io/guide/forms[Forms]
+- 3. link:https://angular.io/guide/form-validation[Form validation]
+
+Oefening 4 en 5 over Reactive Forms en Dynamic Forms kun je oppakken als je op deze manier gaat werken in je app.
+
+== Oefening
+Je mag bezig met je app-2 en Q&A met docent.
+
+Als je die al af hebt of aan de slag wil met advanced forms kun je deze secties van de Angular site:
+- 4. link:https://angular.io/guide/reactive-forms[Reactive Forms]
+- 5. link:https://angular.io/guide/reactive-forms[Dynamic Forms]
+
+== Samenvatting
+We gaan kijken naar Angular Forms, verschillende input types, form validatie en vormgeving.

@@ -1,0 +1,15 @@
+{
+  "name": "closure-example",
+  "version": "1.0.0",
+  "description": "An example of use of JavaScript closure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bart van der Wal",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "tslint": "^5.7.0"
+  }
+}

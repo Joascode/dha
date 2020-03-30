@@ -1,0 +1,336 @@
+=== Oefentoets Develop a Hybrid App
+v2.0 - Di 26-9-2017
+
+==== Onderwerp 1: Het mobiele Landschap en 'Ionic Stack'
+Vragen gemarkeerd met `*` zijn te gedetailleerd en zulke vragen komen in die vorm niet op de 'echte toets'.
+
+===== 1. Van welk onderliggend framework maakt Ionic zelf weer gebruik?
+A. Phonegap
+B. Angular
+C. ReactJS
+D. Al bovenstaande
+
+===== 2. Met welke versie van Ionic werk je in de DHA course? *
+A. Ionic 1.x
+B. Ionic 2.0
+C. Ionic 3.1
+D. Altijd de laatste!
+
+===== 3. Met welke taal ontwikkel je Ionic apps?
+A. TypeScript
+B. HTML
+C. SASS
+D. Al bovenstaance
+
+===== 4. Welke Ionic dependency wordt soms een 'uitbreiding van HTML' genoemd?
+A. Angular
+B. SASS
+C. TypeScript
+D. Al bovenstaande
+
+===== 5. Met welke JavaScript 'supertaal' werkt Ionic?
+A. SASS
+B. Angular
+C. TypeScript
+D. Geen, gewoon JavaScript zelf
+
+===== 6. Wat is het verschil tussen cross platform apps en native apps?
+A. Cross platform werkt op meer platforms, native maar op één
+B. Cross platform app heeft betere performance
+C. Cross platform werkt met JavaScript, een native app niet
+D. Al bovenstaande
+
+===== 7. Wat is het verschil tussen hybrid app en een native apps?
+A. Hybrid app ziet er op elk OS hetzelfde uit, native app niet
+B. Hybrid app gebruikt webview, native app gebruikt native controls
+C. Hybrid app schrijf je in TypeScript, native app niet
+D. Een hybrid app performed meestal beter dan een native app
+
+===== 8. Wat is het verschil tussen een cross platform app en een hybride app?
+A. Cross platform kan meerdere sensors tegelijk benaderen, hybrid app alleen compatibele sensors
+B. Cross platform app werkt ook offline, hybrid app niet
+C. Cross platform app compiled naar native code, hybrid app runt in een webview
+D. Cross platform werkt op tablet en mobiel, hybrid app niet
+
+===== 9. Wat is het verschil tussen een hybride app en een mobiele website?
+A. Een hybrid app werkt ook met NodeJS modules; mobiele website niet
+B. Een hybrid werkt altijd goed op zowel tablet als mobiel, een website meestal niet
+C. Een hybrid app kun je aanbieden in de AppStore, een mobiele site niet
+D. Een hybrid app heeft een icoon op je toetstel, bij mobiele site kan dat niet
+
+===== 10. Is het veilig om secret keys (bv. API key) op te slaan in de source code van een hybrid app?
+A. Nee
+B. Nee, tenzij je 'sourcemap: safe' optie gebruikt
+C. Ja, mits je deze code niet opslaat in versiebeheer
+D. Ja, mits je de broncode obfusceert met een tool/uglifier
+
+<<<
+==== Onderwerp 2: HTML, CSS, SASS
+
+===== 11. CSS is een acroniem voor
+A. Classified Style Sections
+B. Cascading Style Sheets
+C. Classified Style Sheets
+D. Criminally Sexy Styling
+
+===== 12. CSS3 is...
+A. Een verzameling specificaties en voorstellen
+B. De opvolger van CSS 2(.1)
+C. Dé tool voor ronde hoeken, schaduw effecten, animaties etc.
+D. alle genoemde
+
+===== 13. Welk HTML element kun je gebruiken om styles direct in de pagina te zetten?
+A. class
+B. css
+C. style
+D. geen van de genoemde
+
+===== 14. Met welke syntax selecteer je het <body> element?
+A. .body
+B. #body
+C. body
+D. Geen van de genoemde
+
+===== 15. Wat is het doel van een CSS selector?
+A. Deze selecteert de versie van de CSS spec om toe te passen
+B. Deze staat toe om een kleur toe te passen op een achtergrond
+C. Zo weet de browser voor welke elementen een stijlregel geldt
+D. Geen van de genoemde
+
+===== 16. Welk stukje van deze CSS is een 'CSS property'?
+ .selector { 
+     font-size: 12px;
+ }
+
+A. selector
+B. font-size
+C. 12px
+D. Geen van de genoemde
+
+===== 17. Hoe selecteer je in CSS een element met id 'content'?
+`<span id="content">Hi!</span>`
+
+A. content
+B. #content
+C. .content
+D. geen van de genoemde
+
+===== 18. Welke is een geldige SASS variabele?
+A. $iAmAVariable
+B. iAmAVariable
+C. iamavariable
+D. Kan allemaal
+
+===== 19. Welke van de volgende selectors is het meest selectief?
+A. p
+B. #content
+C. div > p
+D. ze zijn allemaal even selectief
+
+===== 20. Als je een 'font-size' van 0.9em instelt krijg je
+A. Tekst op 90% van de grootte van het baseline font
+B. Tekst met minder dan de standaard 'word spacing'
+C. Tekst van 9mm
+D. Tekst met minder dan de standaard 'letter spacing'
+
+===== 21. User agent style rules kun je nooit meer overschrijven
+A. Waar!
+B. Niet waar!
+C. Alleen in moderne browsers
+D. alle genoemde opties
+
+===== 22. Afmetingen in CSS kun je opgeven in...
+A. pixels
+B. millimeters
+C. ems
+D. Alle genoemde
+
+<<<
+==== Onderwerp 3: JavaScript, EcmaScript en TypeScript
+
+===== 23. Wat wordt hier gedeclareerd?
+ var a = [];
+A. een lege lijst
+B. een array
+C. een object
+D. een (lege) string
+
+===== 24. Doet de TypeScript compiler ook aan ASI (Automatic Semicolon Insertion)?
+A. Ja, altijd
+B. Ja, zoals je het instelt in .tsconfig
+C. Nee, laat dit aan JavaScript parser over
+D. Nee, is niet meer nodig in strict mode
+
+===== 25. Welk Javascript mechanisme vereist dat een JavaScript parser de code twee keer langsloopt?
+A. chaining
+B. hoisting
+C. scoping
+D. echoing
+
+===== 26. Kun je punt komma's (;) weglaten in JS?
+A. Ja, die moet je zelfs weglaten
+B. Ja, die mag je weglaten
+C. Die kun je meestal weglaten
+D. Nee, punt komma's zijn verplicht
+ 
+===== 27. Kent JavaScript het 'enum' keyword?*
+A. Nee
+B. Ja, gebruik je als alternatieve syntax om een opsomming aan te maken
+C. Ja, maar is alleen reserved keyword
+D. Ja, is enige manier om een opsomming aan te maken
+
+===== 28. Wat is GEEN JavaScript primitive type?
+A. tuple
+B. number
+C. string
+D. undefined
+
+===== 29. In welk bestand kun je instellen welke versie van de TypeScript compiler je als 'devdependency' hebt?
+A. package.json
+B. tsconfig.json
+C. tslint.json
+D. ionic.config.json
+
+===== 30. In welk bestand kun je de App Id van je hybrid App instellen?
+A. package.json
+B. tsconfig.json
+C. tslint.json
+D. ionic.config.json
+
+===== 31. Wat is een callback?
+A. Dit is de waarde die een methode teruggeeft na aanroep
+B. Dit is een trigger die afgaat als een public property wordt geset
+C. Dit is een methode die je meegeeft aan een functie en vanaf daar wordt aangeroepen
+D. Dit is een methode die je meer dan éénmaal aanroept
+
+<<<
+==== Onderwerp 4: Cordova en Ionic Native
+
+===== 32. Wat is Ionic Native?
+A. Een manier om Ionic te transpileren naar native bytecode voor betere performance
+B. Een manier om native sensors te benaderen vanuit een Ionic app
+C. Een betaalde variant van Ionic waarin je over je webview native controls gebruikt
+D. Een tool om met Ionic specifieke platform builds te genereren
+
+===== 33. Hoe is Ionic Native geimplementeerd?
+A. Deze implementeert de officiele W3C protocollen die toegang geven tot de native sensors van je telefoon
+B. Dit is een set van wrappers van Cordova/Phonegap plugins
+C. Deze implementeert communicatie kanalen tussen je webview en de native controls van je sensors
+D. Dit is een wrapper van je JavaScript code in C++ code.
+
+===== 34. Geef het voordeel van Ionic Native t.o.v. Cordova
+A. Het is altijd getypeerd in TypeScript
+B. De interface is vriendelijker en meer hetzelfde tussen verschillende sensors
+C. Het is een door Ionic goedgekeurde subset van Cordova plugins
+D. Al bovenstaande
+
+===== 35. Wat is nog een voordeel van Ionic Native t.o.v. Cordova?
+A. Alle resultaten zijn Promise of Observable ipv dat je callbacks moet meegeven
+B. De performance is beter
+C. Ionic Native is 'just JavaScript', Cordova niet
+D. Ionic Native heeft een synchrone API, Cordova vaak niet
+
+===== 36. Hoe voeg je een Ionic Native plugin in je app toe met de Ionic CLI?
+A. Installeer een extensie op je mobiel en het werkt
+B. Alle native plugins zijn al geinstalleerd als je `ionic start` hebt gebruikt
+C. De juist code in je Ionic `@Component` toevoegen uit de documentatie
+D. Volg de instructies om ... `plugin add` te doen en de verdere stappen
+
+===== 37. Welke van de volgende kun je aanspreken met Ionic Native?
+A. De camera
+B. De Gyrometer
+C. De flitser
+D. Al bovenstaande
+
+===== 38. En welk van de volgende kun je aanspreken met Ionic Native?
+A. Schermorientatie
+B. Native device dialogen (zoals `confirm`)
+C. De GPS sensor
+D. Al bovenstaande
+
+===== 39. Wat is het verschil tussen PhoneGap en Cordova?*
+A. Cordova is in TypeScript, PhoneGap in vanilla JavaScript
+B. Cordova is open source, PhoneGap is proprietary en commercieel
+C. Cordova is de commerciele - production-ready - distributie van PhoneGap
+D. PhoneGap komt uit Amerika, Cordova uit Spanje
+
+===== 40. Wat gebeurt er als je een Ionic app geheel in 'strict mode' zet?
+A. Dan voorkom je dat hij in 'Quirks mode' runt
+B. Dan performed hij vaak wat slechter
+C. Dan gooit deze een exceptie bij introductie van niet gedeclareerde variabelen
+D. Dan gebruikt hij nergens block scoping
+
+<<<
+==== Antwoordmodel
+NB Vraag 2 en 27 vallen eruit ivm slechte vraagkwaliteit.
+
+ 1. B
+ 2. D // Te gedetailleerd/teveel op proces ipv kennis
+ 3. D
+ 4. A
+ 5. C
+ 6. A
+ 7. B
+ 8. C
+ 9. C
+10. A
+11. B
+12. D
+13. C
+14. C
+15. C
+16. B
+17. B
+18. A
+19. B
+20. A
+21. B
+22. D
+23. B
+24. C
+25. B
+26. C
+27. C  // Te gedetailleerd
+28. A
+29. A
+30. D
+31. C
+32. B
+33. B
+34. D
+35. A
+36. D
+37. D
+38. D
+39. B  // Te ambigue
+40. C
+
+<<<
+==== Cesuur
+Je moet 70% van de vragen goed hebben voor een voldoende (5,5).
+
+- 70% van 40 is 28 vragen; dus max. 12 vragen fout hebben. Bij minder fouten stijgt het cijfer lineair door tot een *10* bij 0 fouten.
+- Met 4 keuzemogelijkheden heb je 25% kans. Bij enkel gokken zou je gemiddeld al 10 vragen goed moeten hebben. Het cijfer neemt vanaf 12 fouten lineair af tot een *1* bij 30 of meer fouten.
+
+ #fout      Cijfer      #fout       Cijfer
+ 0.         10          20.         3,5
+ 1.         9,6         21.         3,3
+ 2.         9,3         22.         3,0
+ 3.         8,9         23.         2,8
+ 4.         8,5         24.         2,5
+ 5.         8,1         25.         2,3
+ 6.         7,8         26.         2,0
+ 7.         7,4         27.         1,8
+ 8.         7,0         28.         1,5
+ 9.         6,6         29.         1,3
+10.         6,3         30.         1
+11.         5,9         31.         1
+12.         5,5         32.         1
+13.         5,3         33.         1
+14.         5,0         34.         1
+15.         4,8         35.         1
+16.         4,5         36.         1
+17.         4,3         37.         1
+18.         4,0         38.         1
+19.         3,8         39.         1
+                        40.         1

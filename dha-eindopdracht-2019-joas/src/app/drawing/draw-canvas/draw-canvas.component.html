@@ -1,0 +1,30 @@
+<ion-content class="canvas-container">
+  <div #canvasContainer ion-fixed class="draw-canvas-container">
+    <div class="canvas-top-bar">
+      <!-- <ion-button class="restartBtn" (click)="clearCanvas()"
+        >Restart</ion-button
+      > -->
+      <p class="task-label">Draw: {{ task | titlecase }}</p>
+      <div id="countdown">
+        <div id="countdown-number">{{ timeLeft }}</div>
+        <svg>
+          <circle r="18" cx="20" cy="20"></circle>
+        </svg>
+      </div>
+    </div>
+    <!-- <div class="draw-canvas-container-container"> -->
+    <!-- <div  class="draw-canvas-container"> -->
+    <canvas id="myCanvas" class="draw-canvas" #canvas></canvas>
+    <!-- ?</div> -->
+    <!-- </div> -->
+  </div>
+  <div *ngIf="label" [@enterAnimation] class="label">
+    <p *ngIf="success; else taskCompleted">
+      {{ label }}
+    </p>
+  </div>
+</ion-content>
+
+<ng-template #taskCompleted>
+  <p>{{ label }}</p>
+</ng-template>

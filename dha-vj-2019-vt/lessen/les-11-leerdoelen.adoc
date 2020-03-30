@@ -1,0 +1,6 @@
+- [ ] 1. Je kunt uitleggen hoe je JavaScript als functionele programmeertaal kunt toepassen
+- [ ] 2. Je kunt minstens 4 functionele technieken benoemen en uitleggen hoe ze werken
+- [ ] 3. Je kunt `map`, `reduce` en `filter` functies gebruiken
+- [ ] 4. Je kunt een geschikt stuk imperatieve code omschrijven naar code volgens FP paradigma
+- [ ] 5. Je kunt beschrijven wat functie compositie is en kunt dit toepassen
+- [ ] 6. Je kent enkele voor- en nadelen van functioneel programmeren

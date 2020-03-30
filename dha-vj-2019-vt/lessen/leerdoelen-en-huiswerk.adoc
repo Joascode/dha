@@ -1,0 +1,32 @@
+== OWE - Competenties
+- DHA-1: De student kan werken met een state-of-the-art framework voor het ontwikkelen van hybride mobiele apps.
+- DHA-2: De student kent het 'mobiele landschap' en kan kritisch bekijken en motiveren welk type app het best past bij gegeven requirements.
+- DHA-3: De student kent een modern web framework en kan hiermee een app realiseren met een modulaire opzet en goede separation of concerns.
+- DHA-4: De student kan eventuele aanwezigheid van sensors detecteren, en data asynchroon uitlezen of volgens ‘reactive programming’ en de data weergeven en integreren in de geschreven mobiele app.
+- DHA-5: De student schrijft hoge kwaliteit Javascript apps, volgens best practices, technieken als progressive enhancement, feature detection en polyfills en met moderne uitbreidingen ervan (TS, ES6).
+- DHA-6: De student kan de eigen ontwikkelomgeving inrichten voor het ontwikkelen, testen en opleveren van een hybride app.
+- DHA-7: De student kan een hybride app opleveren naar meerdere platforms, en meerdere device types en met custom code voor een specifieke platforms (Apple, Android, Windows).
+- DHA-8: De student kent responsive design principes en best practices om verschillende schermgroottes en -ratio’s (form factors) te ondersteunen.
+
+
+OWE - Competenties
+DHA-1 -> 'Ionic'
+DHA-2 -> 'Landscape'
+DHA-3 > 'Angular'
+DHA-4 -> 'Sensor'
+DHA-5 -> 'TypeScript'
+DHA-6 -> 'Install'
+DHA-7 -> 'Deploy'
+DHA-8 -> 'Design'
+
+
+=== Huiswerk & Leerdoelen
+Het huiswerk voor een bepaalde les staat altijd vermeld bij die les zelf.
+Kijk als voorbereiding dus altijd vooruit bij de volgende les. Lees meteen ook de beschrijving van de volgende les, en bekijk de leerdoelen. Op deze manier weet je al globaal wat in de les behandeld wordt, en de leerdoelen kun je in je achterhoofd houden tijdens je voorbereiding. Pak als je klaar bent met voorbereiden de leerdoelen er nog eens bij en kijk of je deze doelen aan gehaald hebt, of dat je toch nog eens terug moet kijken. Als het niet behandeld is komt het in de les aan bod, of in een oefening. Als je na de les een leerdoel alsnog niet behaald is, kaart dit dan aan bij de docent.
+
+En als je alle leerdoelen al wel tijdens de voorbereiding gehaald hebt, hoef je wellicht niet eens naar de les toe! ALs je alle oefeningen kunt maken. Hou hier echter wel rekening mee dat de docent bij problemen minder geneigd is om studenten te helpen die niet bij de lessen zijn. Om dit euvel te voorkomen is het wel toegestaan om vóór de les een mail te sturen naar de docent met hierin alle leerdoelen voor de komende les, en een zelf geschreven gedetailleerde uitleg erbij met het antwoord op een vraag, of ander toelichting die laat zien dat je dit doel al behaald hebt.
+
+NB Je kunt daarbij ook alvast de sheets doornemen. Maar je hoeft hier geen vragen over in te dienen :). Het mag natuurlijk wel, zeker moeilijke vragen kun je even mailen, dan kan de docent zich hier eventueel ook nog even extra in verdiepen.
+
+== Leerdoelen
+

@@ -1,0 +1,7 @@
+- [ ] 1. Je kunt voor- en tegenargumenten noemen voor zowel hybride apps als native apps en deze gebruiken in een argumentatie/discussie
+- [ ] 2. Je kunt het nut van een styleguide uitleggen, en een paar voorbeelden noemen.
+- [ ] 3. Je kunt motiveren waarom het volgen van een styleguide handig is, en ook nuanceren waarom deze niet heilig is
+- [ ] 4. Je kunt de LIFT principes uitleggen, controleren of een codebase hieraan voldoet en wijzigingen aanbrengen om een codebase meer 'LIFT compliant' te maken.
+- [ ] 5. Je kunt beoordelen of een stuk Angular / Ionic code voldoet aan de Angular styleguide en deze refactoren naar conformante code
+- [ ] 6. Je kunt beschrijven hoe de bestandsnamen volgens de Angular styleguide moeten zijn van componenten, directives services, modules, etc en kent de 'one-thing-per-file' conventie.
+- [ ] 7. Je kunt een nieuwe Angular app inrichten volgens de 'folders-by-feature' van de Angular styleguide uitleggen.

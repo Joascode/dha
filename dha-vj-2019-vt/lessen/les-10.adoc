@@ -1,0 +1,30 @@
+== Week 5 - Angular advanced
+=== Les 10 - Workshops C &  Angular
+=== <<les-09#, < >> <<README#week5, ^>> <<les-11#, > >>
+
+=== Slides
+Geen
+
+=== Leerdoelen
+<<<
+include::/lessen/les-10-leerdoelen.adoc[]
+
+=== Voorbereidend huiswerk
+- Rond de Angular Tour of heroes af (nu ook link:https://angular.io/tutorial/toh-pt6#http[http] opdracht).
+
+== Samenvatting
+Er is deze les een studenten workshop.
+
+Deze les is de deadline voor de groepsindeling (duo's) en hebben van goedgekeurd voorstel voor app-2 en app-3 (eindopdracht).
+
+=== Links
+- Kahoot 'Angular Advanced', volgt...
+
+=== Oefening Unit Testen
+Reddit Reader verwerken in Ionic App
+
+0. Start een ionic app op basis van deze repo: https://github.com/ionic-team/ionic-unit-testing-example/
+1. In de Typescript les hebben we een link:https://gist.github.com/fritzvd/46d857c3ef122e8941105e82e7057d8d[Reddit Reader] gemaakt. Deze gaan we nu in een Angular Service gieten
+2. Angular Service gaan we gebruiken in Ionic app
+3. Angular Service testen
+4. Service gebruiken in Component

@@ -1,0 +1,7 @@
+- [ ] 1. Je kent een aantal van de Ionic Components waarmee je je UI in kunt implementeren
+- [ ] 2. Je kunt de Ionic documentatie online vinden en met hulp hiervan een Ionic UI control invoegen in een eigen app en deze laten werken
+- [ ] 3. Je kunt deze laten samenwerken met je eigen componenten, onderlinge communicatie
+- [ ] 4. Je kunt de layout van een component aanpassen
+- [ ] 5. Je kunt een of meerdere componenten embedden in je eigen component, en opgeven als dependency, zodat deze als een eenheid geinstalleerd kan worden
+- [ ] 6. Je kunt de extra features uitleggen die SASS je geeft over regulier CSS, en hoe je SASS kunt gebruiken in websites of mobiele apps
+- [ ] 7. Je kunt uitleggen hoe van hybride apps de broncode te achterhalen is en hoe te voorkomen dat dit security problemen geeft

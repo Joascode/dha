@@ -1,0 +1,15 @@
+{
+  "name": "reddit-reader",
+  "version": "1.0.0",
+  "description": "Een kleine command line reddit reader in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.3.3"
+  }
+}

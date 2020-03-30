@@ -1,0 +1,7 @@
+{
+  "name": "DeVisPasCheck",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

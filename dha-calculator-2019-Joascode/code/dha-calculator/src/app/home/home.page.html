@@ -1,0 +1,100 @@
+<!-- <ion-header>
+  <ion-toolbar>
+    <ion-title>
+      Calculator
+    </ion-title>
+  </ion-toolbar>
+</ion-header> -->
+<ion-content padding class="calculator-container">
+  <div class="calculator-display">
+    <div *ngIf="previousValue != undefined" class="previous-value">
+      {{ previousValue }}
+      <span *ngIf="currentOperand !== ''" class="current-operand">{{
+        currentOperand
+      }}</span>
+    </div>
+    <div class="current-value">
+      {{ displayValue }}
+    </div>
+  </div>
+  <div class="base-calculator">
+    <div class="unary-and-allclear">
+      <ion-button (click)="clearAll()" class="btn-bit-grayer">AC</ion-button>
+      <ion-button (click)="touchUnaryOperand($event)" class="btn-bit-grayer">
+        {{ operands.plusMinus }}
+      </ion-button>
+      <ion-button (click)="touchUnaryOperand($event)" class="btn-bit-grayer">
+        {{ operands.percent }}
+      </ion-button>
+    </div>
+    <div class="digits-and-comma">
+      <ion-button (click)="touchDigit($event)" color="light">7</ion-button>
+      <ion-button (click)="touchDigit($event)" color="light">8</ion-button>
+      <ion-button (click)="touchDigit($event)" color="light">9</ion-button>
+      <ion-button (click)="touchDigit($event)" color="light">4</ion-button>
+      <ion-button (click)="touchDigit($event)" color="light">5</ion-button>
+      <ion-button (click)="touchDigit($event)" color="light">6</ion-button>
+      <ion-button (click)="touchDigit($event)" color="light">1</ion-button>
+      <ion-button (click)="touchDigit($event)" color="light">2</ion-button>
+      <ion-button (click)="touchDigit($event)" color="light">3</ion-button>
+      <ion-button
+        (click)="touchDigit($event)"
+        class="calculator-button-0"
+        color="light"
+        >0</ion-button
+      >
+      <ion-button (click)="touchDigit($event)" color="light">
+        {{ operands.comma }}</ion-button
+      >
+    </div>
+    <div class="binary-and-equals">
+      <ion-button (click)="touchBinaryOperand($event)" class="btn-orange">
+        {{ operands.divide }}
+      </ion-button>
+      <ion-button (click)="touchBinaryOperand($event)" class="btn-orange">
+        {{ operands.multiplication }}
+      </ion-button>
+      <ion-button (click)="touchBinaryOperand($event)" class="btn-orange">
+        {{ operands.minus }}
+      </ion-button>
+      <ion-button (click)="touchBinaryOperand($event)" class="btn-orange">
+        {{ operands.plus }}
+      </ion-button>
+      <ion-button (click)="touchEquals()" class="btn-orange">=</ion-button>
+    </div>
+    <div class="landscape-calculator-extension">
+      <ion-button disabled class="btn-bit-grayer">
+        {{ operands.openBracket }}
+      </ion-button>
+      <ion-button disabled class="btn-bit-grayer">
+        {{ operands.closedBracket }}
+      </ion-button>
+      <ion-button disabled class="btn-bit-grayer">
+        {{ operands.second }}
+      </ion-button>
+      <ion-button (click)="touchUnaryOperand($event)" class="btn-bit-grayer">
+        {{ operands.squared }}
+      </ion-button>
+      <ion-button (click)="touchUnaryOperand($event)" class="btn-bit-grayer">
+        {{ operands.oneDivided }}
+      </ion-button>
+      <ion-button (click)="touchUnaryOperand($event)" class="btn-bit-grayer">
+        {{ operands.squareRoot }}
+      </ion-button>
+      <ion-button (click)="touchUnaryOperand($event)" class="btn-bit-grayer">
+        {{ operands.notX }}
+      </ion-button>
+      <ion-button (click)="touchUnaryOperand($event)" class="btn-bit-grayer">
+        {{ operands.sinus }}
+      </ion-button>
+      <ion-button (click)="switchRadiusDegrees()" class="btn-bit-grayer">
+        {{ useRadius ? operands.rad : operands.degrees }}
+      </ion-button>
+      <ion-button (click)="touchUnaryOperand($event)" class="btn-bit-grayer">
+        {{ operands.sinusH }}
+      </ion-button>
+    </div>
+  </div>
+</ion-content>
+
+<ng-template> </ng-template>

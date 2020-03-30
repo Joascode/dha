@@ -1,0 +1,3 @@
+- [ ] 1. Je kan Angular Services gebruiken en integreren in een (bestaande) angular app.
+- [ ] 2. Je kan een Ionic app maken die gebruik maakt van een Angular Service.
+- [ ] 3. Je kan een web API gebruiken als input data voor je app.

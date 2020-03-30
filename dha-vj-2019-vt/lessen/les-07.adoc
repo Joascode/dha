@@ -1,0 +1,42 @@
+== Week 4 - Cordova, Ionic Storage & Angular Intro
+=== Les 7 - Ionic Native/Cordova, Ionic Storage en Oefentoets
+=== <<les-06#, < >> <<README#week4, ^>> <<les-08#, > >>
+
+=== Slides
+Slides Les 7 - Ionic Native & Ionic Storage, volgen...
+
+== Leerdoelen
+<<<
+include::/lessen/les-07-leerdoelen.adoc[]
+
+=== Toets
+link:https://github.com/HANICA-MAD/dha-nj-2017-vt/blob/master/toets/oefentoets.pdf[Oefentoets 26 sept 2017]
+
+=== Links
+- link:https://applyhead.com/javascript-callback-promise-async-await/[Demo Fritz Callback - Promise - async/await]
+
+=== Voorbereidend huiswerk
+* Regel een duo/partner en volg de instructies 'How to get started voor App2' (deadline eind week 4)
+* Bekijk nu link:https://app.pluralsight.com/library/courses/ionic2-angular2-typescript-mobile-apps/[_PS_: Ionic 2.. Module 7 en 8 _IO_ Components Beyond the Basics en _IO_ Native] _1 a 2u_#
+* Beantwoord hierbij deze vragen (verdiep je zo nodig extra in link:https://cordova.apache.org/[Cordova]):
+    ** Wat is Cordova?
+    ** Bekijk de _IO_ Native documentatie een sensor met Promise result en Observable. Benoem één overeenkomst en één verschil tussen Promises en Observables (zoek op)
+    ** Wat is de relatie tussen Ionic Native en Cordova?
+    ** Is Ionic Native echt native?
+
+NB Kijk bij Module 8 de video's over sensors die jij wilt gebruiken in App2 en/of App3. Kies dus ook vast één of meerdere sensors waar je iets mee wilt doen, overleg met je parter.
+Als je nog niet kunt kiezen, kun je uiteraard wel alle filmpjes langsgaan. Maar dat hoeft dus niet. Bekijke module 7 wel geheel.
+Je kunt ook de documentatie van link:http://ionicframework.com/docs/native/[Ionic Native] doorkijken voor een leuke sensor.
+
+=== Samenvatting
+In het kader van app2 en de eindopdracht kijken we vandaag naar Ionic Native en Cordova en ook naar Ionic Storage.
+We kijken ook terug naar callbacks en promises en kijken verder naar de code van een Observable. Meer hierover in het React gedeelte.
+
+=== Oefening 1
+Tijd voor oefentoets individueel maken. Erna plenair vragen behandelen.
+
+==== Optionele Oefening 2
+- Maak een Ionic ListView
+- Maak een pull-to-refresh functionaliteit
+
+

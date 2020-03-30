@@ -1,0 +1,25 @@
+<ion-header>
+<ion-toolbar color="primary">
+<ion-buttons slot="start">
+<ion-back-button defaultHref="/overview"></ion-back-button>
+</ion-buttons>
+<ion-title>VisPas QR-Checker</ion-title>
+</ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+  <div class="container">
+    <div *ngIf="expectedQRCode" class="card-info">
+      <p><b>{{expectedQRCode}}</b></p>
+    </div>
+    <div *ngIf="scannedData" class="card-info">
+      <p><b>{{scannedData}}</b></p>
+    </div>
+  </div>
+</ion-content>
+<ion-footer no-shadow>
+  <ion-toolbar position="bottom">
+    <ion-button expand="full" (click)="startScanning()">Vispas scannen</ion-button>
+  </ion-toolbar>
+</ion-footer>
+

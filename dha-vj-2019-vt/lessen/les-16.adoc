@@ -1,0 +1,14 @@
+== Week 8 - Uitloop
+=== Les 16 - Deadline Eindopdracht
+=== <<les-15#, < >> <<README#week8, ^>> >
+
+=== Slides
+Geen slides.
+
+== Samenvatting
+*Deze les is de deadline voor de Eindopdracht (App 3).*
+
+Geen plenaire les. 
+Deze les worden zal de docent de eindopdracht ge-assessed worden van degenen die deze al tijdig voor de deadline heeft aangeleverd.
+
+Mail vantevoren met de docent als je nog last minute vragen of problemen hebt. Voor structurele issues is nu geen tijd meer.

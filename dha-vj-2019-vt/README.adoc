@@ -1,0 +1,70 @@
+== MAD: Develop a Hybrid App - Voorjaar 2019
+In deze course van de minor MAD leer je hoe je een hybride mobiele app ontwikkelt.
+
+De course duurt 8 weken. Bij voldoende inzet kun je hierna een volwaardige hybride app maken. Je hebt ook voldoende achtergrond van het mobiele landschap om 'on the job' een andere aanpak te leren en te gebruiken in het multidisciplinaire project van de minor.
+
+=== Quick links
+[cols="2a, 2a"] 
+|===
+| <<lessen/README#, Lessenoverzicht>> 
+| <<workshops/README#, Workshops>> 
+
+| <<toets/README#, Toets>>
+| <<opdrachten/README#, Apps>>
+|===
+
+=== Lesindeling
+Hieronder de vaste onderdelen en indeling van de les. Theorie en praktijk worden afgewisseld.
+Per les zijn hier uiteraard wat verschillen in afhankelijk van het onderwerp en eventuele deadlines van opdrachten, toets of presentaties, Zie het lessenoverzicht.
+
+[cols="1a, 3a, 1a"]
+|===
+| Onderdeel 
+| Toelichting
+| Tijd (ca)
+
+| *1e deel*
+| - Onderwerp, leerdoelen en planning van de les
+  - Terugkijken vorige les 
+  - Vragen n.a.v. vorige les
+  - Bespreken vragen en problemen n.a.v. huiswerk 
+| _5-15 min_
+
+| Theorie
+| - *Minicollege 1 of workshop(s)*
+  - _Pauze_
+| _30-40 min_
+
+| Praktijk
+| - *Oefeningen  1*
+  - Evt. assessen apps
+  - _Pauze_
+| _30-45 min_
+
+| *2e deel*
+| Evt. bespreken status apps en evt. problemen
+| _5-15 min_
+
+| Theorie
+| - *Minicollege 2*
+  - Terugkijken leerdoelen
+  - Bespreken huiswerk volgende keer
+  - _Pauze / Afsluiten plenair_
+| _30-40 min_
+
+| Praktijk
+| - *Oefeningen  2*
+  - Evt. assessen apps
+  - _Einde_
+| _30-45 min_
+
+| Totaal
+|
+| 2-3u
+
+|===
+
+== Toelichting
+Samen met de course DiA - 'Develop an iOS app' - waar je een native mobiele app bouwt - vormt de DHA course het eerste blok van de minor 'Mobile Application Development' (MAD).
+
+Na afloop van deze courses ben je klaar om in het 2e blok bij het multidisciplinaire project een mobiele app te bouwen, en eentje die past bij de requirements, of dit nu een native app is of een hybride app, of nog een ander soort app.

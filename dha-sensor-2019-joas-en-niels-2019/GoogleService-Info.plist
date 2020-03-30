@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>871219865074-6glted0bnri47od4j0e94d699qcg6nn1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.871219865074-6glted0bnri47od4j0e94d699qcg6nn1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAe5dV1Bna4VCNVQFSvKeVYp9aw8PWvaQ8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>871219865074</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.joniproductions.vispascheck</string>
+	<key>PROJECT_ID</key>
+	<string>devispascheck</string>
+	<key>STORAGE_BUCKET</key>
+	<string>devispascheck.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:871219865074:ios:c9068e7862ba4f36</string>
+	<key>DATABASE_URL</key>
+	<string>https://devispascheck.firebaseio.com</string>
+</dict>
+</plist>

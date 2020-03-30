@@ -1,0 +1,11 @@
+- [ ] 1. Je kunt beschrijven hoe Ionic native werkt - of het echt native is - en de relatie met een webview
+- [ ] 2. Je kunt de relatie tussen Ionic Native en Cordova beschrijven en minstens 5 voorbeelden geven van Cordova plugins
+- [ ] 3. Je kunt een Ionic native component in een app toevoegen met behulp van de Ionic documentatie
+- [ ] 4. Je kent twee manieren waarop sensor data asynchroon uit een 'native component' komt en hoe je deze data afhandelt in je eigen app
+- [ ] 5. Je kunt het model beschrijven hoe gebruikers om toestemming worden gevraagd voor bepaalde componenten op zowel iOS als Android
+- [ ] 6. Je kunt enkele componenten noemen waarvoor geen toestemming nodig is
+- [ ] 7. Je kunt iets zeggen over security in frontend applicaties
+- [ ] 8.  Je kunt zeggen wat qua usability het beste moment is om om toestemming te vragen
+- [ ] 9. Je kunt data uit je app - bijvoorbeeld door gebruiker ingevoerde input - opslaan met Ionic storage
+- [ ] 10. Je kunt beschrijven waar Ionic storage wordt opgeslagen in de onderliggemde laag op iOS en Android platform en in de browser
+- [ ] 11. Je weet wat voor vragen je op de toets kunt verwachten

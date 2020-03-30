@@ -1,0 +1,23 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Ionic Blank
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <div *ngIf="error" class="color: red;">{{ error }}</div>
+  <input type="text" [(ngModel)]="inputTekst" placeholder="Te vertalen" size="40" style="border: black 1px solid;"/>
+  <br/><br/>
+  <button ion-button (click)="vertaal()" [disabled]="inputText">Vertaal</button>
+  <ion-spinner *ngIf="isTranslating" style="position: fixed; margin-top: 12px;"></ion-spinner>
+  <br/><br/>
+  <div>{{ outputTekst }}</div>
+  <br/>
+  <h2>Wikipedia Search</h2>
+  <input #term type="text" (keyup)="zoek(term.value)">
+  <ul>
+    <li *ngFor="let item of items">{{item}}</li>
+  </ul>
+</ion-content>

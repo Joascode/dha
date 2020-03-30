@@ -1,0 +1,5 @@
+- [ ] 1. Je kunt de highlights vertellen van de historie en ontwikkeling van JavaScript en ok iets over de verwachtingen in de nabije toekomst
+- [ ] 2. Je kent de syntax en belangrijkste keywords van JavaScript en kunt simpele programma’s schrijven en lezen
+- [ ] 3. Je kent de goede kanten (good parts) van JavaScript en hoe deze JS een krachtige en uitbreidbare taal maken
+- [ ] 4. Je kent de slechte kanten en valkuilen van JavaScript en hoe deze te herkennen en vermijden
+

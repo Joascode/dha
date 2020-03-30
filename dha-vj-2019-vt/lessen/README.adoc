@@ -1,0 +1,101 @@
+== Lessenoverzicht - voorjaar 2019
+
+[cols="2a, 2a, 2a, 2a, 3a"] 
+|===
+| OW
+| Onderwerp
+| Maandag
+| Vrijdag
+| Deadline
+
+| [[week1]]Wk 1
+| *Intro*
+| <<les-01#, Les 1: *Overview & Hybrid*>>
+| <<les-02#, Les 2: *Workshops A & Ionic Deepdive*>>
+| <</workshops/README#, *Workshops A*>>
+
+| [[week2]]Wk 2
+| *JS & TS*
+| <<les-03#, Les 3: *JS The good parts*>>
+| <<les-04#, Les 4: *TypeScript>>
+| <</opdrachten#, *App 1* - Calculator>>
+
+| [[week3]]Wk 3
+| *ES & IO UI*
+| <<les-05#, Les 5: *EcmaScript 2015+*>>
+| <<les-06#, Les 6: *Workshops B & Ionic UI*>>
+| link:/workshops/README#[*Workshops B*]
+
+| [[week4]]Wk 4
+| *Ionic Storage & Angular intro*
+| <<les-07#, Les 7: *Ionic Native+Storage & Oefenen toets*>>
+| <<les-08#, Les 8: *Angular Intro*>>
+|
+
+| [[week5]]Wk 5
+| *Angular & IO Native*
+| <<les-09#, Les 9: *Angular Advanced*>>
+| <<les-10#, Les 10: *TheorieToets & Workshops C*>>
+| <</workshops/README#, *Workshops C*>> <</toets/README#,*Theorietoets*>>
+
+| [[week6]]Wk 6
+| *FRP & RxJS*
+| <<les-11#, Les 11: *Functional JS*>>
+| <<les-12#, Les 12: *RxJS*>>
+| <</opdrachten/#, *App 2* - Sensor>>
+
+| [[week7]]Wk 7
+| *NG Forms & NG Styleguide*
+| <<les-13#, Les 13: *NG Forms*>>
+| <<les-14#, Les 14: *NG Styleguide*>>
+| <</workshops/README#, *Workshops D*>>
+
+| [[week8]]Wk 8
+| *Eindopdracht*
+| <<les-15#, Les 15: *Uitloop*>>
+| <<les-16#, Les 16: *Uitloop*>>
+| <</opdrachten/README#, *App 3* - 'Vrije' eindopdracht>>
+
+| [[week9]]Wk 9
+| *MDP Prep & Assessments*
+| Workshop Kotlin
+| Workshop MDP
+|
+
+
+|===
+
+== Toelichting
+In bovenstaande de lesplanning staan je de onderwerpen per les. Je vindt ook de deadlines voor workshops, opdrachten en de theorietoets.
+
+NB: Reken op nog 4 uur voorbereiden voor de workshop.
+Voor de opdrachten staat een uren indicatie in de kolom 'Deadline'. En indicatieve urentotalen in de laatste rij van de tabel.
+
+=== Afkortingen
+Om de tabel een beetje compact te houden zijn deze afkortingen gebruikt in het lessenoverzicht.
+
+[cols="1a, 3, 1a, 3, 1a, 3"]
+|===
+| Afko | Betekenis | Afko | Betekenis
+
+| *IO*
+| Ionic
+| *CS*
+| CodeSchool
+| *MDP*
+| Multidisciplinair Project
+
+
+| *ES*
+| EcmaScript
+| *JS*
+| JavaScript
+
+| *NG*
+| Angular(2+)
+| *PS*
+| PluralSight
+| *TS*
+| TypeScript
+
+|===

@@ -1,0 +1,10 @@
+==== Bouncing balls als Angular component
+Prerequisite: Tour of Heroes (stap 1 t/m 4)
+Oefening om zelf aan de slag te gaan zonder gedetailleerd stappenplan en voorbeeld code:
+
+- Zet de logica/code van de Bounding Balls demo uit les 4 nu in een Angular component
+- Zorg dat het in TypeScript werkt met de `Ball` als externe klasse die je importeert en ook een `resize` event.
+- Zet het canvas in de (.html) view van het component, en maak de initiele afmetingen ervan als attributen van dit component
+- Refactor de code netjes over de view, model en een (herbruikbare) service.
+- Test nu dat je ook twee of meer bouncing balls kunt includen, die elk een deel van het scherm innemen. Refactor/herschrijf indien nodig
+- Optioneel: zet de collission detection in een aparte service. En run deze in een service worker!

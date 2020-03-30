@@ -1,0 +1,4 @@
+- [ ] 1. Je kunt een http service maken en gebruiken
+- [ ] 2. Je kent een aantal standaard Angular pipes noemen en gebruiken. (date, currency, json)
+- [ ] 3. Je kunt een custom filter/pipe maken en toepassen in een template, en kent ook de syntax om hier parameters aan mee te geven
+- [ ] 4. Je kent de drie soorten directives die Angular ondersteunt en waar deze voor zijn (components, structural- and attributive directives)

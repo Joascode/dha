@@ -1,0 +1,65 @@
+//variables
+svg {
+  width: 50px;
+  height: 100%;
+  display: inline-block;
+  circle {
+    fill: #fff;
+  }
+}
+
+.popup {
+  display: flex;
+  justify-content: right;
+  width: 100%;
+  position: absolute;
+  padding-right: 20px;
+  bottom: 40px;
+  .popup-label-container {
+    background-color: #3880ff;
+    &.default {
+      background-color: #3880ff;
+    }
+    &.success {
+      background-color: #10dc60;
+    }
+    &.error {
+      background-color: #ffce00;
+    }
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin: 10px 20px;
+    border-radius: 10px;
+
+    height: 50px;
+
+    p {
+      font-size: 0.8em;
+      color: #ffffff;
+      margin: auto 20px;
+    }
+
+    ion-button {
+      color: white;
+      border: 1px solid white;
+      border-radius: 10px;
+      margin: auto;
+      margin-right: auto;
+      margin-right: 10px;
+    }
+  }
+  // display: flex;
+  // justify-content: right;
+  // position: absolute;
+  // bottom: 40px;
+  // width: 100%;
+  // // background-color: lightgray;
+  // p {
+  //   text-align: center;
+  //   background-color: lightblue;
+  //   padding: 10px 25px;
+  //   margin: 0;
+  // }
+}

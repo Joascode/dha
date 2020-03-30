@@ -1,0 +1,6 @@
+- [ ] 1. Je kunt een voorbeeld geven van een reactive programma, zodat een leek het ook begrijpt :)
+- [ ] 2. Je kunt beschrijven wat reactive programming is
+- [ ] 3. En welk design pattern hierbij hoort
+- [ ] 4. Je kent minstens 5 operators uit RxJS en kunt ze toepassen
+- [ ] 5. Je kunt 3 voordelen noemen van `Observable` t.o.v. `Promises` of 'plain' callbacks
+- [ ] 6. Je kunt de relatie tussen Reactive Programming en het functionele programmeer paradigma geven

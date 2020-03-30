@@ -1,0 +1,43 @@
+== Week 6 - FP & RxJS
+=== Les 12 - RxJS
+=== <<les-11#, < >> <<README#week6, ^>> <<les-13#, > >>
+
+=== Slides
+link:https://docs.google.com/presentation/d/19mo8qEnINdDRR2DHR20g6GUdLUvWX9ofMb4x6EzOwRI[Slides Les 12 - RxJS - Reactive Programming]
+
+=== Enquete
+link:https://forms.office.com/Pages/ResponsePage.aspx?id=t-dzXeGzAE2zAwVhQLKjtNCDq3Ht18dMpXCsLA3C_RRUQkpON1FMRUo0MUNVSjlZS1JLUUJVNENOQS4u[Studenten Enquete MAD] Graag vandaag invullen!
+
+=== Kahoot over Functional programming
+- Kahoot Les 11 - Digging da paradigm!, volgt...
+
+=== Leerdoelen
+<<<
+include::/lessen/les-12-leerdoelen.adoc[]
+
+=== Voorbereidend huiswerk
+Kijk link:https://app.pluralsight.com/player?course=reactive-programming-rxjs-getting-started&author=scott-allen&name=reactive-programming-rxjs-getting-started-m1&clip=3&mode=live[Scott Allen's Getting Started... course] over RxJS op Pluralsight.
+
+NB: De PluralSight cursus is zeer informatief, maar het is ook veel, en we zitten in de praktijkfase van het vak. Dus als je de 'gist of it' hebt, kun je verde ook `Just in Time` dingen bekijken, op het moment dat je het nodig hebt in je app.
+
+- Als je geen tijd hebt voor de gehele course, kijk dan eerst eens de sectie `Finding the operator that you need` in module 4. En gebruik het hier genoemde info en tool op link:http://reactivex.io/documentation/operators.html#tree[reactivex.io].
+- Voor App-2 en App-3 kun je met gebruik RxJS operators bonuspunten scoren. Mits het ook functionele meerwaarde is voor je app.
+ 
+== Samenvatting
+*Deze les is na de theorie de assessments voor de Sensor App opdracht (App 2).*
+Als je niet aan de beurt komt, wordt dit volgende week maandag of - in overleg met docent - op moment buiten de les.
+
+*Deze les is ook het link:../workshops/debate.adoc[Parliamentary Debate]*
+Na de les over functioneel programmeren, gaan we nu kijken naar functioneel 'reactive' programmeren; en wel met RxJS.
+Dit is een belangrijke framework dat veel gebruikt wordt in combinatie met Angular. 
+Angular zelf is al reactive, maar met dit framework als je in de models ook reactive programming. Maar eerst een intro in wat reactive programming is.
+
+Verder heb je vandaag heb je de code voor App 2 ingeleverd. Werkt alles? En ben je ook blij met je code? Of hadden er nog dingen mooier gekund?
+Het kan altijd mooier. Als je al geen dingen meer kunt toevoegen, dan kun je wellicht nog dingen verwijderen (zoals in de vorige les behandeld).
+Daarnaast kunnen we nog vele uren insteken zonder enige uiterlijke wijziging (behalve wellicht het fixen van wat bugs. Namelijk door het voor managers meestal onbegrepen 'refactoren' toe te passen.
+
+=== Oefening
+http://reactivex.io/learnrx/
+
+Vanaf oefening 32 wordt het Reactive.
+

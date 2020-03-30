@@ -1,0 +1,65 @@
+== Week 3 - ES & IO UI
+=== Les 6 - Ionic Controls & SASS
+=== <<les-05#, < >> <<README#week3, ^>> <<les-07#, > >>
+
+=== Slides
+- Slides les 6 - Teh Frontend, volgen...
+
+== Leerdoelen
+<<<
+include::/lessen/les-06-leerdoelen.adoc[]
+
+=== Oefen Kahoots CSS
+- link:https://play.kahoot.it/#/k/82d526fb-6307-47d2-80f4-98faa151b174[CSS Super Quiz 1]
+- link:https://play.kahoot.it/#/k/95a894ab-5ba1-433b-bf2a-0ee8921948a3[CSS Super Quiz 2]
+- link:https://play.kahoot.it/#/k/57b82d9f-4fd7-4b50-b9c3-d422cfeb7de9[CSS Super Quiz 3]
+
+== Voorbereidend huiswerk
+- Bekijken link:https://app.pluralsight.com/library/courses/better-css/[_PS_ Better CSS with LESS and SASS] Module 3 - Using SASS. _50_ min
+- Bekijken link:https://app.pluralsight.com/library/courses/ionic2-angular2-typescript-mobile-apps/[_PS_: Ionic 2.. Module 6 _IO_ Components] _1 a 2u_#
+
+== Samenvatting 
+De les zijn met 2 <</workshops/README#,workshops>> van studenten gepland. Hierin zit een code-along voor alle studenten.
+
+In de rest van de les bekijken we 3 onderwerpen. Over deze 3 onderwerpen kunnen ook nog vragen komen in de theoretische toets van volgende week:
+
+- 1. Ionic controls link:https://app.pluralsight.com/library/courses/ionic2-angular2-typescript-mobile-apps/table-of-contents[Ionic2 - Pluralsight course]
+- 2. SASS; een CSS preprocessor die de standaard is in Ionic
+- 3. Security
+
+=== 1. Ionic controls
+Kies 2 of meer Ionic controls die je voor App-2 wilt gaan gebruiken. Als je al een idee hebt zoek hier dan controls bij.
+Als je nog geen idee hebt zie je wellicht coole controls die je wilt gebruiken, zodat je hier een onderwerp bij kunt verzinnen.
+
+=== 2. SASS
+SASS stond als huiswerk (PluralSight), maar dit wordt kort herhaald via de sheets. Maak daarna in het praktijk deel onderstaande oefening.
+
+=== 3. Security
+Voor het onderwerp 'security' security kijken we naar twee cases. Bekijk deze video en/respectievelijk blogpost (NB video kijken we in de les, dus hoef je NIET vantevoren te bekijken):
+- [ ] 1. Waarom je link:https://www.joshmorony.com/extracting-the-source-code-of-any-cordova-application[geen wachtwoorden moet opslaan in hybride/Ionic apps] 8:38 min
+- [ ] 2. Hoe je de link:https://www.joshmorony.com/hybrid-app-developers-dont-store-your-users-passwords[broncode van elke Ionic (of andere hybride) app kunt opvragen], en alle secure calls waarvoor keys nodig zijn, moet je dus in de backend moet doen. 
+
+Hou rekening met deze security zaken in App-2 en -3 (zie ook requirements).
+
+== SASS Oefening
+1. Maak een Ionic blank app
+
+> ionic start dha-sass --no-git
+
+2. Pak de CSS van 'star-six' van link:https://css-tricks.com/examples/ShapesOfCSS/#star-six[css-tricks.com]
+3. Zet deze in het `.scss` bestand van je `home` component (vergeet niet in je view (.html) een element met id 'star-six' te zetten)
+4. Bestudeer de code, en debug in Chrome zodat je begrijpt wat wat doet. Wat doet de ':after' regel?
+5. Verwijder all magic numbers met SASS variabelen (behalve '0`).
+6. 'Nicify' het verder zodat je de CSS regel kunt gebruiken voor meer elementen op de pagina (#)
+7. Gebruik nesting om duplicate code uit de twee regels te DRY'en of maax een mixin
+8. Maak de hard-coded grootte van de star (`50px`) variabel met rekenregels/expressies ipv fixed waarden
+9. Maak de ster-grootte een parameter van de mixin
+10. Optioneel:
+    ** Doe de zelfde stappen voor de star-5 van css-tricks
+    ** Bestudeer de overeenkomsten en bedenk hoe je een star met 7 punten kunt maken 
+    ** Maak het aantal punten variabel (gebruik SASS advanced link:http://sass-lang.com/documentation/file.SASS_REFERENCE.html#Control_Directives___Expressions['Control Directives'])
+    ** Publiceer je SASS code als een package op NPM :), schrijf er een blog post over en tweet een link ervan
+    ** Gefeliciteerd, je bent nu officieel een front-end goeroe en kunt overal aan de slag als frontend developer
+    ** Merk op dat je SASS nu wel imperatief geworden is, terwijl men 'declaratief' over het algemeen als higher level ziet
+
+

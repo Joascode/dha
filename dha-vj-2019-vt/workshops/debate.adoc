@@ -1,0 +1,44 @@
+== Parliamentary Debate
+De oude Grieken zagen de dialoog en het debat als de beste manier om verdere inzichten te krijgen. Op het scherpst van de snede. En niet in de echo chamber van je eigen clubje, zoals je momenteel ook op moderne social media nu weer terug ziet.
+
+De 'Parliamentary debate' is een uit Engeland overgewaaide dicussievorm, die nu wereldwijd navolging vind, in Amerika en Azië, maar nu ook op de HAN in Arnhem: link:https://en.wikipedia.org/wiki/Parliamentary_debate['The Parliamentary debate'].
+
+In de laatste week is er een keer een debat i.p.v. de reguliere workshops. Kritische keuzes maken en deze beargumenteren is een van de te ontwikkelen competenties in dit vak. De stelling krijg je in de 1<sup>e</sup> les te horen.
+
+De docent kiest ook een jury uit, en deze jury roept na afloop van het debat één groep uit tot winnaar en ook een persoon als beste debater.
+
+=== Slides
+link:https://docs.google.com/presentation/d/1knzDgQswRv-t8XS8bjnLk99pSWliA2skSNyUIR97uHg[Dit is een link].
+
+=== Taakverdeling
+Inbreng en beoordeling van alle aanwezigen is ook van belang. Naast de groepen worden een aantal mensen aangewezen als jury en iemand als time keeper, de rest is publiek.
+
+=== Be there or be square
+Als je graag het debat doet, zorg dan dat je hier op ingedeeld wordt. Zo niet, zorg dan dat je al eerder voor een workshop hebt gegeven!
+
+- Als je gaat debatteren kun je je voorkeur aangeven of je bij de groep wilt die voor of tegen de stelling argumenteert. Maar het is niet altijd mogelijk om ieders wensen in te willigen.
+- Een basisprincipe bij dergelijke debatten is ook dat je het niet met de stelling eens hoeft te zijn, om toch voor de stelling te argumenteren; of andersom. Je kunt je dan des te beter inleven in de tegenargumenten, en goede tegenargumenten verzinnen.
+
+- Debatteren is een mix van rationeel argumenteren, emoties kunnen bespelen en goede retorica. Er is een duidelijk gedefinieerd format voor dit debat.
+Verdiep je hier vantevoren even in. Ook als je zelf niet in de debate groep zit.
+
+- Ter voorbereiding doen we in de les voorafgaand aan het debat een 'debate prep', om het format duidelijk te krijgen en de rollen vast te verdelen.
+
+Of kijk een link:https://www.youtube.com/watch?v=w_1-YCbVip4#[voorbeeld video] op YouTube.
+
+=== Government vs opposition
+Twee teams, the parlement (overheid) en de opposition (oppositie) gaan met elkaar het debat over een bepaalde stelling aan volgens strikt bepaalde regels.
+De overheid verdedigt de stelling. De oppositie valt hem aan en probeert hem te ontkrachten.
+Maar de overheid mag ook de stelling toelichten of licht verbuigen. En de oppositie kan er ook een andere draai aangeven.
+
+=== Jury
+Een onafhankelijke jury bepaalt tot slot wie gewonnen heeft. Het verder aanwezige publiek bepaald wie individueel de beste debater was. En kan naderhand zelf nog nadiscussieren.
+
+Stelling:
+>"Over een paar jaar ontwikkelen de meeste bedrijven apps op basis van 'Hybride technologie'; niet meer native."
+
+Download uit de `/workshops/debate` folder eventueel relevante documenten:
+
+- Presentatie (ook beschikbaar als link:https://docs.google.com/presentation/d/1kSmKJm21Nd1d6nNfYpa98YR2LsNiXjDRshsgmdBxZjE[Google slides])
+- Adjudicator form (voor jury)
+- kamer-voorzitter.docx

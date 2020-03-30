@@ -1,0 +1,9 @@
+== Week 0 - Kick off
+=== Les 0 - Kick off MAD: Dia en DHA
+=== < <<README#week1, ^>> <<les-01#, > >>
+
+=== Slides
+link:https://docs.google.com/presentation/d/14Ht8LUpvum3T5RFMbENUh2SbszOYzRGFTvsxjlCDw0g[Dit is een link.]
+
+=== Samenvatting
+De Kickoff less

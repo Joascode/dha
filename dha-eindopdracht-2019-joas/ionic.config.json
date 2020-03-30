@@ -1,0 +1,7 @@
+{
+  "name": "quick-draw-hybrid",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

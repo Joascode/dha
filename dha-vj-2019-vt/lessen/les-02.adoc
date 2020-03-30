@@ -1,0 +1,37 @@
+== Week 1 - Intro 
+=== Les 2 - Mobiele landschap & Ionic deepdive
+=== <<les-01#, < >> <<README#week1, ^>> <<les-03#, > >>
+
+=== Slides
+- link:https://docs.google.com/presentation/d/1spfdReARrwOoYNjgwlHHjfSHZMCFfcHvJHUMKnJKWBk[Dit is een link.]
+
+=== Leerdoelen
+<<<
+include::/lessen/les-02-leerdoelen.adoc[]
+
+=== Voorbereidend huiswerk
+
+- Kies 3 hot frameworks in elk 'apptype' besproken in les 1.
+- Installeer NodeJS, GIT, Ionic en Cordova (link:https://docs.npmjs.com/getting-started/fixing-npm-permissions#option-2-change-npms-default-directory-to-another-directory[zorg dat je met `npm install` NIET alles hoeft te `sudo`'en])
+- 2 groepen bereiden de presentatie voor
+
+=== Samenvatting
+Als voorbereiding moest elke student op zoek naar drie frameworks in de hoofdgebieden van het mobiele landschap. Of eventueel grensgebied. We starten les 2 met een workshop waarbij elke student zijn/haar opgezochte frameworks indeelt in het 'mobiele landschap'. Hierna discussieren we over de indeling en kijken welke frameworks het meest populair zijn. Wellicht komt dit terug in een latere workshop of les.
+
+Hierna zijn de eerste 2 workshops (<<workshops/workshops-a#,Workshops A>>) studenten groepen studenten om één specifiek framework uit te lichten. Zij doen ook aan kennisoverdracht via demo/code-along. Hierna nog tijd voor vragen. Thuis heeft iedereen NodeJS geinstalleerd en Ionic. Onderling lossen jullie eventuele problemen op die naar voren zijn gekomen.
+
+Verder behandelen we lopende problemen bij studenten en doen nog korte testjes van sto van deze en vorige les. In deel 2 van de les is een plenaire code along/demo: IONIC DEEPDIVE. Hier gaan we aan de slag met de case die bij DIA al aan bod is gekomen: een Calculator app. Werk mee, want dit is principe opdracht 1.
+Na de demo kun je zelf verder om alles aan de praat te krijgen, vragen te stellen, of vast bezig te gaan met gevraagde kleine uitbreiding.
+
+=== Links
+
+- link:https://www.youtube.com/watch?v=twFWRCoDNeY[YouTube - Calculator - Deel 1] - `Hello Ionic`
+- link:https://www.youtube.com/watch?v=NZDRfn2enTU[YouTube - Calculator - Deel 2]... - `Buttons and ops`
+
+=== Kahoots - Play till you get an A...!
+- Het Mobiele Landschap (wordt een link na de les)
+
+=== Verdere links
+- link:https://docs.emmet.io/[Emmet]
+- In de (Google) slides staan (vaker) nog wat verder links in de comments, zoals (nieuw!):
+- link:http://blog.whitehorses.nl/2013/05/17/how-to-stick-a-sticky-note/[How to stick a sticky note ]

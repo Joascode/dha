@@ -1,0 +1,11 @@
+==== Deel 1 - Course Overview
+- [ ] 1. Je kent de hoofdonderwerpen van de course
+- [ ] 2. Je weet wat de vereiste voorkennis & eindtermen zijn
+- [ ] 3. Je weet hoe je het vak succesvol afsluit
+- [ ] 4. Je kent de planning van lessen, toetsen en opdrachten
+
+==== Deel 2 - Introduction to Hybrid Apps
+- [ ] 5. Je kent de drie typen mobiele apps
+- [ ] 6. Je kent de plek van hybride apps hierin
+- [ ] 7. Je kunt het gebruik van webtechnologie in hybride apps uitleggen
+- [ ] 8. Je kunt kritisch beoordelen of een app type past bij requirements voor een nieuwe app

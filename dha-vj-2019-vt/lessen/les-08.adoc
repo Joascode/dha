@@ -1,0 +1,37 @@
+== Week 4 - Cordova, Ionic Storage & Angular Intro
+=== Les 8 - Angular Intro: Data binding
+=== <<les-07#, < >> <<README#week4, ^>> <<les-09#, > >>
+
+=== Slides
+Slides Les 8 - Angular: Introduction, volgen...
+
+=== Leerdoelen
+<<<
+include::/lessen/les-08-leerdoelen.adoc[]
+
+=== Voorbereidend huiswerk
+- Maak van de link:https://www.codeschool.com/courses/accelerating-through-angular[CodeSchool course 'Accelerating Through Angular'] level 1 en 2.
+Totaal zijn er 5 levels. Deze moet je eind volgende week af hebben, dus je mag het ook zelf timen.
+
+=== link
+Kahoot les 8 - Angular Intro, volgt...
+
+=== Samenvatting
+We maken een start met Angular. Angular kennis wordt niet getest in de theorietoets voor, uitgezonderd  algemene vragen over Angular als onderdeel van de 'Ionic Stack'. We hebben tot nu al wel wat details van Angular gezien, vandaag beginnen we er officieel mee. We kijken eerst naar meest bekende feature van dit 'reactive frontend framework': de databinding syntax. En ook het verschil tussen one en two binding, de grote verandering van v1 naar Angular v2+.
+
+Bij voldoende tijd kijken we naar:
+
+- Angular components en hoe dit met link:https://www.typescriptlang.org/docs/handbook/decorators.html[TypeScript *decorators*] werkt.
+- Het verschil tussen TS modules en link:https://angular.io/guide/ngmodule[Angular *modules*] en waar deze laatste voor dienen.
+- Herbruikbare logica verplaatsen naar een link:https://angular.io/tutorial/toh-pt4[*Angular service*].
+
+We gaan in het praktijk stuk aan de slag met Angular Heroes Tutorial, en communicatie tussen componenten.
+Er is waarschijnlijk geen tijd om aan `http` deel toe te komen, dus doe deze thuis, aangezien dit een van de vereisten is voor `app-2`.
+
+=== Oefening 1
+- Installeer de link:https://github.com/angular/angular-cli#installation[Angular CLI] (`ng`)
+- Doe de link:https://angular.io/tutorial[Tour of Heroes] stap 1 t/m 4: Components, Master/Detail, e.d.
+
+=== Oefening 2 (thuis afmaken)
+- Ga verder met de link:https://angular.io/tutorial/toh-pt4[Tour of Heroes] stap 5 en 7.
+- NB Stap 6 - routing mag je overslaan, in Ionic gebruik je meestal alleen StackController voor routing.

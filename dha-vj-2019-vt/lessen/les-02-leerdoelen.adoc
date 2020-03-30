@@ -1,0 +1,6 @@
+- [ ] 1. Je kent het mobiele landschap
+- [ ] 2. Je kan een framework een plek geven hierbinnen
+- [ ] 3. Je hebt een framework concreet op je systeem uitgeprobeerd
+- [ ] 4. Je hebt Ionic werkend op je eigen systeem
+- [ ] 5. Je hebt een beeld van de werking en functionaliteit van Ionic
+- [ ] 6. Je hebt een raamwerk van een app die werkt

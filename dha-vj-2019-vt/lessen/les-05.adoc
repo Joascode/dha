@@ -1,0 +1,37 @@
+== Week 3 - ES & IO UI
+=== Les 5 - ES2015, ES2016 and beyond
+=== <<les-04#, < >> <<README#week3, ^>> <<les-06#, > >>
+
+=== Slides
+link:https://docs.google.com/presentation/d/1k9Z9lFV2b8yCIxnYLEeiLpGohjPqjvjT-cE-E9hLF3M/edit?usp=sharing[Slides Les 5 - ES2015, ES2017 and beyond]
+
+== Voorbereidend huiswerk
+- [ ] Lees de link:https://www.typescriptlang.org/docs/handbook/variable-declarations.html[TypeScript tutorial over variable declaration] (NB Is dus TS site, maar dit geldt ook voor ES6=ES2015)
+- [ ] Lees de link:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures[MDN docz over Closures]
+- [ ] Bekijk enkele modules uit link:https://app.pluralsight.com/player?course=javascript-fundamentals-es6&author=scott-allen&name=javascript-fundamentals-es6-m2-variables&clip=1&mode=live[Pluralsight JavaScript Fundamentals ES6] (o.b.v. leerdoelen en wat in bronnen hierboven niet behandeld is, in ieder geval die over `async`, `promises` en `Arrows` (a.k.a. lambdas))
+- [ ] Oefen met ES2015 via de PluralSight interactive course: https://www.pluralsight.com/courses/db8ce03f-69d7-403e-b07f-6f7919e27ca5
+
+=== Leerdoelen
+<<<
+include::/lessen/les-05-leerdoelen.adoc[]
+
+=== Links
+- Kahoot: De JavaScript die je wist dat zou komen, volgt...
+
+=== Samenvatting
+Na introductie van TypeScript in de vorige les kijken we naar specifieke features van nieuwe ECMAScript versies ES6, ES7 en ES8, ook wel ES 2015, 2016 respectievelijk 2017 genoemd.
+We kijken naar de achtergrond van de nieuwe versienummering, en hoe we kunnen achterhalen welke taal features nu al door (welke) browsers worden ondersteunt.
+
+Daarna lopen we door de hoofdfeatures heen:
+
+- Declarations
+- Classes, modules
+- Sets, Maps
+- Promises, async/await
+
+Aan het eind van de les een korte vooruitblik naar upcoming standaarden uit de TC39 standaard, zoals Observables, die nu al in RXJS 5 zitten; een dependency van Angular, die standaard meekomt!
+
+Al deze ES features worden ook ondersteunt in TypeScript; zoals natuurlijk de Classes. En TS heeft in versie 1.8+ ook de nieuwe ES modules overgenomen en de eigen module format laten vallen.
+*1: Voor sommige features zijn nog wel polyfills nodig.*
+
+Bij de start van de oefening gaan we ook assessen. Je moet nu ook duo's gaan vormen voor App 2. Hier gaan we in de volgende les naar kijken.

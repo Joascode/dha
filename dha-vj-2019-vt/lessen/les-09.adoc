@@ -1,0 +1,40 @@
+== Week 5 - Angular Advanced
+=== Les 9 - Angular: HTTP services, pipes, directives & architecture
+=== <<les-08#, < >> <<README#week5, ^>> <<les-10#, > >>
+
+=== Slides
+Slides Les 9 - Permissies & Angular Advanced, volgen...
+
+=== Leerdoelen
+<<<
+include::/lessen/les-09-leerdoelen.adoc[]
+
+=== Voorbereidend huiswerk
+- Maak de Angular Tour of Heroes (helemaal of tót http, die maak je dan voor volgende les)
+- Schrijf - samen met je duopartner - een voorstel voor app-2 in je `README.md` o.b.v. requirements (zorg dat je team hebt)
+- Schrijf sectie 'uitbreiding' app-3 als je doorgaat met zelfde app (kijk hierbij ook vast naar requirements app-3)
+
+=== Samenvatting
+We gaan verder met Angular. We herhalen kort en kijken nu even naar de gehele architectuur van Angular.
+Daarna gaan we verder met Angular services uit de vorige les, en werken de `http` service uit.
+
+In het tweede deel kijken we naar Angular filter. Deze worden ook wel 'pipes' genoemd in analogie met de syntax en werking in unix achtige OS'. We gebruiken de builtin filter `json` die je handig kunt gebruiken voor debuggen. Zeker in combinatie met een HTML `<pre>` tag.)
+Als uitbreiding hierop denken we na hoe we een eigen filter kunnen definieren met ook syntax highlighting, analoog aan GitHub flavoured markdown.
+Daarna kijken we naar wat component methods zijn en hoe je deze in moet zetten.
+
+Daarna kijken we naar de andere 2 soorten directives dan de al behandelde components.
+
+=== Link
+- link:https://ionicframework.com/docs/api/navigation/NavController/[Ionic NavController voor multipage navigatie]
+- link:https://app.pluralsight.com/player?course=ionic2-angular2-typescript-mobile-apps&author=steve-michelotti&name=ionic2-angular2-typescript-mobile-apps-m3&clip=0&mode=live[PluralSight Ionic2 course - NavigationStack]
+
+==== Oefening - Async Translate pipe
+- 1. Clone de DHA repo naar lokaal
+ > git clone https://github.com/HANICA-MAD/dha-nj-2017-vt.git
+- 2. Pak evt. alleen de `dha-translate` folder (uit `lessen/les-demo`)
+- 3. Refactor de `vertaal()` functie naar een aparte Angular Service (en zorg dat het nog werkt)
+- 4. Genereer een pipe `dha-translate-pipe` met de Ionic CLI
+- 5. Test dat de pipe werkt met default `upperCase` functionaliteit (snakeCase naar pascalCase geeft soms problemen)
+- 6. Wijzig de pipe om nu translate service te gebruiken
+- 7. Pas de view aan en geef de `The world is your oyster` tekst en zorg dat deze vertaald wordt
+

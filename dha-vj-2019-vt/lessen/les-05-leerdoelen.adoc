@@ -1,0 +1,4 @@
+- [ ] 1. Je kent de nieuwe en upcoming versies van EcmaScript en hoe de versienummering werkt
+- [ ] 2. Je kent bronnen om te achterhalen welke ES versie browsers momenteel ondersteunen
+- [ ] 3. Je kent de grote nieuwe features van ES2015 en kunt ze gebruiken
+- [ ] 4. Je kent de grote nieuwe features van ES2016 en 2017 en kunt ze gebruiken

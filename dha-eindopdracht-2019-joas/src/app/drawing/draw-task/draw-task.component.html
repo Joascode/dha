@@ -1,0 +1,133 @@
+<div class="container" ion-fixed>
+  <ion-header>
+    <ion-toolbar>
+      <ion-buttons slot="start">
+        <ion-back-button defaultHref="home" text="Home"></ion-back-button>
+      </ion-buttons>
+    </ion-toolbar>
+  </ion-header>
+  <div *ngIf="!loading; else loadingScreen" class="task-container">
+    <p>Draw</p>
+    <p class="taskTitle">{{ task | titlecase }}</p>
+    <p>In under 20 seconds!</p>
+    <ion-button class="taskBtn" (click)="taskAccepted()">Got It!</ion-button>
+  </div>
+</div>
+
+<ng-template #loadingScreen>
+  <div class="task-container">
+    <div class="loader loader--style" title="loading..">
+      <p>Preparing recognition service</p>
+      <svg
+        version="1.1"
+        id="Layer_1"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        x="0px"
+        y="0px"
+        width="24px"
+        height="30px"
+        viewBox="0 0 24 30"
+        style="enable-background:new 0 0 50 50;"
+        xml:space="preserve"
+      >
+        <rect x="0" y="13" width="4" height="5" fill="#333">
+          <animate
+            attributeName="height"
+            attributeType="XML"
+            values="5;21;5"
+            begin="0s"
+            dur="0.6s"
+            repeatCount="indefinite"
+          />
+          <animate
+            attributeName="y"
+            attributeType="XML"
+            values="13; 5; 13"
+            begin="0s"
+            dur="0.6s"
+            repeatCount="indefinite"
+          />
+        </rect>
+        <rect x="10" y="13" width="4" height="5" fill="#333">
+          <animate
+            attributeName="height"
+            attributeType="XML"
+            values="5;21;5"
+            begin="0.15s"
+            dur="0.6s"
+            repeatCount="indefinite"
+          />
+          <animate
+            attributeName="y"
+            attributeType="XML"
+            values="13; 5; 13"
+            begin="0.15s"
+            dur="0.6s"
+            repeatCount="indefinite"
+          />
+        </rect>
+        <rect x="20" y="13" width="4" height="5" fill="#333">
+          <animate
+            attributeName="height"
+            attributeType="XML"
+            values="5;21;5"
+            begin="0.3s"
+            dur="0.6s"
+            repeatCount="indefinite"
+          />
+          <animate
+            attributeName="y"
+            attributeType="XML"
+            values="13; 5; 13"
+            begin="0.3s"
+            dur="0.6s"
+            repeatCount="indefinite"
+          />
+        </rect>
+      </svg>
+    </div>
+  </div>
+</ng-template>
+
+<ng-template>
+  <svg
+    version="1.1"
+    id="L4"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    x="0px"
+    y="0px"
+    viewBox="0 0 100 100"
+    enable-background="new 0 0 0 0"
+    xml:space="preserve"
+  >
+    <circle fill="#fff" stroke="none" cx="6" cy="50" r="6">
+      <animate
+        attributeName="opacity"
+        dur="1s"
+        values="0;1;0"
+        repeatCount="indefinite"
+        begin="0.1"
+      />
+    </circle>
+    <circle fill="#fff" stroke="none" cx="26" cy="50" r="6">
+      <animate
+        attributeName="opacity"
+        dur="1s"
+        values="0;1;0"
+        repeatCount="indefinite"
+        begin="0.2"
+      />
+    </circle>
+    <circle fill="#fff" stroke="none" cx="46" cy="50" r="6">
+      <animate
+        attributeName="opacity"
+        dur="1s"
+        values="0;1;0"
+        repeatCount="indefinite"
+        begin="0.3"
+      />
+    </circle>
+  </svg>
+</ng-template>
