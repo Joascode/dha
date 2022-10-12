@@ -34,7 +34,7 @@
     "@ionic/storage": "^2.2.0",
     "algoliasearch": "^3.32.1",
     "angularfire2": "^5.1.1",
-    "cordova-android": "7.1.4",
+    "cordova-android": "11.0.0",
     "cordova-ios": "5.0.0",
     "cordova-plugin-add-swift-support": "1.7.2",
     "cordova-plugin-device": "^2.0.2",
